@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+
+<list>
+
+  <!-- [Sealed Leather Armor of Nightmare Fabric] for [Adena] -->
+  <item id="1">
+    <ingredient id="57" count="300000"/>
+    <production id="5480" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Leather Armor Fabric] for [Adena] -->
+  <item id="2">
+    <ingredient id="57" count="300000"/>
+    <production id="5481" count="1"/>
+  </item>
+
+  <!-- [Sealed Robe of Nightmare Fabric] for [Adena] -->
+  <item id="3">
+    <ingredient id="57" count="300000"/>
+    <production id="5487" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Robe Fabric] for [Adena] -->
+  <item id="4">
+    <ingredient id="57" count="300000"/>
+    <production id="5488" count="1"/>
+  </item>
+
+  <!-- [Sealed Shield of Nightmare Fragment] for [Adena] -->
+  <item id="5">
+    <ingredient id="57" count="300000"/>
+    <production id="5495" count="1"/>
+  </item>
+
+  <!-- [Sealed Boots of Nightmare Lining] for [Adena] -->
+  <item id="6">
+    <ingredient id="57" count="300000"/>
+    <production id="5502" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Boots Lining] for [Adena] -->
+  <item id="7">
+    <ingredient id="57" count="300000"/>
+    <production id="5503" count="1"/>
+  </item>
+
+  <!-- [Sealed Gloves of Nightmare Design] for [Adena] -->
+  <item id="8">
+    <ingredient id="57" count="300000"/>
+    <production id="5514" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Gloves Design] for [Adena] -->
+  <item id="9">
+    <ingredient id="57" count="300000"/>
+    <production id="5515" count="1"/>
+  </item>
+
+  <!-- [Sealed Armor of Nightmare Pattern] for [Adena] -->
+  <item id="10">
+    <ingredient id="57" count="300000"/>
+    <production id="5522" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Plate Armor Pattern] for [Adena] -->
+  <item id="11">
+    <ingredient id="57" count="300000"/>
+    <production id="5523" count="1"/>
+  </item>
+
+  <!-- [Sealed Helm of Nightmare Design] for [Adena] -->
+  <item id="12">
+    <ingredient id="57" count="300000"/>
+    <production id="5527" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Circlet Design] for [Adena] -->
+  <item id="13">
+    <ingredient id="57" count="300000"/>
+    <production id="5528" count="1"/>
+  </item>
+
+  <!-- [Dragon Slayer Edge] for [Adena] -->
+  <item id="14">
+    <ingredient id="57" count="2000000"/>
+    <production id="5529" count="1"/>
+  </item>
+
+  <!-- [Elysian Head] for [Adena] -->
+  <item id="15">
+    <ingredient id="57" count="2000000"/>
+    <production id="5533" count="1"/>
+  </item>
+
+  <!-- [Soul Bow Stave] for [Adena] -->
+  <item id="16">
+    <ingredient id="57" count="2000000"/>
+    <production id="5534" count="1"/>
+  </item>
+
+  <!-- [Soul Separator Head] for [Adena] -->
+  <item id="17">
+    <ingredient id="57" count="2000000"/>
+    <production id="5537" count="1"/>
+  </item>
+
+  <!-- [Dragon Grinder Edge] for [Adena] -->
+  <item id="18">
+    <ingredient id="57" count="2000000"/>
+    <production id="5538" count="1"/>
+  </item>
+
+  <!-- [Tallum Glaive Edge] for [Adena] -->
+  <item id="19">
+    <ingredient id="57" count="2000000"/>
+    <production id="5541" count="1"/>
+  </item>
+
+  <!-- [Branch of The Mother Three Head] for [Adena] -->
+  <item id="20">
+    <ingredient id="57" count="2000000"/>
+    <production id="5544" count="1"/>
+  </item>
+
+  <!-- [Dark Legion's Edge Blade] for [Adena] -->
+  <item id="21">
+    <ingredient id="57" count="2000000"/>
+    <production id="5545" count="1"/>
+  </item>
+
+  <!-- [Sword of Miracles Edge] for [Adena] -->
+  <item id="22">
+    <ingredient id="57" count="2000000"/>
+    <production id="5546" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Earring Gemstone] for [Adena] -->
+  <item id="23">
+    <ingredient id="57" count="300000"/>
+    <production id="6342" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Necklace Beads] for [Adena] -->
+  <item id="24">
+    <ingredient id="57" count="300000"/>
+    <production id="6344" count="1"/>
+  </item>
+
+  <!-- [Sealed Majestic Ring Gemstone] for [Adena] -->
+  <item id="25">
+    <ingredient id="57" count="300000"/>
+    <production id="6346" count="1"/>
+  </item>
+
+  
+
+
+
+  <!-- [Sealed Dark Crystal Leather Armor Pattern] for [Adena] -->
+  <item id="26">
+    <ingredient id="57" count="300000"/>
+    <production id="5478" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum leather Armor Pattern] for [Adena] -->
+  <item id="27">
+    <ingredient id="57" count="300000"/>
+    <production id="5479" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystalline Leggings Design] for [Adena] -->
+  <item id="28">
+    <ingredient id="57" count="300000"/>
+    <production id="5482" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Tunic Texture] for [Adena] -->
+  <item id="29">
+    <ingredient id="57" count="300000"/>
+    <production id="5485" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Robe Fabric] for [Adena] -->
+  <item id="30">
+    <ingredient id="57" count="300000"/>
+    <production id="5486" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Stockings Fabric] for [Adena] -->
+  <item id="31">
+    <ingredient id="57" count="300000"/>
+    <production id="5489" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Shield Fragment] for [Adena] -->
+  <item id="32">
+    <ingredient id="57" count="300000"/>
+    <production id="5494" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Boots Lining] for [Adena] -->
+  <item id="33">
+    <ingredient id="57" count="300000"/>
+    <production id="5496" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Boots Lining] for [Adena] -->
+  <item id="34">
+    <ingredient id="57" count="300000"/>
+    <production id="5497" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Gloves Design] for [Adena] -->
+  <item id="35">
+    <ingredient id="57" count="300000"/>
+    <production id="5508" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Gloves Design] for [Adena] -->
+  <item id="36">
+    <ingredient id="57" count="300000"/>
+    <production id="5509" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Breastplate Pattern] for [Adena] -->
+  <item id="37">
+    <ingredient id="57" count="300000"/>
+    <production id="5520" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Plate Armor PAttern] for [Adena] -->
+  <item id="38">
+    <ingredient id="57" count="300000"/>
+    <production id="5521" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Gaiters Pattern] for [Adena] -->
+  <item id="39">
+    <ingredient id="57" count="300000"/>
+    <production id="5524" count="1"/>
+  </item>
+
+  <!-- [Sealed Dark Crystal Helmet Design] for [Adena] -->
+  <item id="40">
+    <ingredient id="57" count="300000"/>
+    <production id="5525" count="1"/>
+  </item>
+
+  <!-- [Sealed Tallum Helm Design] for [Adena] -->
+  <item id="41">
+    <ingredient id="57" count="300000"/>
+    <production id="5526" count="1"/>
+  </item>
+
+  <!-- [Meteor Shower Head] for [Adena] -->
+  <item id="42">
+    <ingredient id="57" count="2000000"/>
+    <production id="5532" count="1"/>
+  </item>
+
+  <!-- [Carnage Bow Stave] for [Adena] -->
+  <item id="43">
+    <ingredient id="57" count="2000000"/>
+    <production id="5535" count="1"/>
+  </item>
+
+  <!-- [Bloody Orchid Head] for [Adena] -->
+  <item id="44">
+    <ingredient id="57" count="2000000"/>
+    <production id="5536" count="1"/>
+  </item>
+
+  <!-- [Blood Tornado Edge] for [Adena] -->
+  <item id="45">
+    <ingredient id="57" count="2000000"/>
+    <production id="5539" count="1"/>
+  </item>
+
+  <!-- [Halberd Edge] for [Adena] -->
+  <item id="46">
+    <ingredient id="57" count="2000000"/>
+    <production id="5542" count="1"/>
+  </item>
+
+  <!-- [Dasparion's Staff Edge] for [Adena] -->
+  <item id="47">
+    <ingredient id="57" count="2000000"/>
+    <production id="5543" count="1"/>
+  </item>
+
+  <!-- [Elemental Sword Edge] for [Adena] -->
+  <item id="48">
+    <ingredient id="57" count="2000000"/>
+    <production id="5547" count="1"/>
+  </item>
+
+  <!-- [Tallum Blade Edge] for [Adena] -->
+  <item id="49">
+    <ingredient id="57" count="2000000"/>
+    <production id="5548" count="1"/>
+  </item>
+
+  <!-- [Sealed Phoenix Earring Gemstone] for [Adena] -->
+  <item id="50">
+    <ingredient id="57" count="300000"/>
+    <production id="6341" count="1"/>
+  </item>
+
+  <!-- [Sealed Phoenix Neclace Beads] for [Adena] -->
+  <item id="51">
+    <ingredient id="57" count="300000"/>
+    <production id="6343" count="1"/>
+  </item>
+
+  <!-- [Sealed Phoenix Ring Gemstone] for [Adena] -->
+  <item id="52">
+    <ingredient id="57" count="300000"/>
+    <production id="6345" count="1"/>
+  </item>
+ <item id="53">
+    <ingredient id="57" count="2000000"/>
+    <production id="8349" count="1"/>
+  </item>
+    <item id="54">
+    <ingredient id="57" count="2000000"/>
+    <production id="8346" count="1"/>
+  </item>
+  <item id="55">
+    <ingredient id="57" count="2000000"/>
+    <production id="8342" count="1"/>
+  </item>
+  <item id="56">
+    <ingredient id="57" count="2000000"/>
+    <production id="8341" count="1"/>
+  </item>
+  <item id="57">
+    <ingredient id="57" count="2000000"/>
+    <production id="8331" count="1"/>
+  </item>
+  
+
+  </list>
+

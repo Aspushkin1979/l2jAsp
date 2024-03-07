@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="1">
+    <ingredient id="2376" count="1"/>
+    <ingredient id="2379" count="1"/>
+    <ingredient id="5714" count="1"/>
+    <ingredient id="5730" count="1"/>
+    <ingredient id="2415" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20013" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="2">
+    <ingredient id="2390" count="1"/>
+    <ingredient id="5715" count="1"/>
+    <ingredient id="5731" count="1"/>
+    <ingredient id="2415" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20014" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="3">
+    <ingredient id="2406" count="1"/>
+    <ingredient id="5716" count="1"/>
+    <ingredient id="5732" count="1"/>
+    <ingredient id="2415" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20015" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="4">
+    <ingredient id="358" count="1"/>
+    <ingredient id="2380" count="1"/>
+    <ingredient id="5718" count="1"/>
+    <ingredient id="5734" count="1"/>
+    <ingredient id="2416" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20016" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="5">
+    <ingredient id="2391" count="1"/>
+    <ingredient id="5719" count="1"/>
+    <ingredient id="5735" count="1"/>
+    <ingredient id="2416" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20017" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="6">
+    <ingredient id="2398" count="1"/>
+    <ingredient id="5720" count="1"/>
+    <ingredient id="5736" count="1"/>
+    <ingredient id="2416" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20018" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="7">
+    <ingredient id="2381" count="1"/>
+    <ingredient id="5722" count="1"/>
+    <ingredient id="5738" count="1"/>
+    <ingredient id="2417" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20019" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="8">
+    <ingredient id="2392" count="1"/>
+    <ingredient id="5723" count="1"/>
+    <ingredient id="5739" count="1"/>
+    <ingredient id="2417" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20020" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="9">
+    <ingredient id="2399" count="1"/>
+    <ingredient id="2404" count="1"/>
+    <ingredient id="5724" count="1"/>
+    <ingredient id="5740" count="1"/>
+    <ingredient id="2417" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20021" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="10">
+    <ingredient id="357" count="1"/>
+    <ingredient id="383" count="1"/>
+    <ingredient id="5710" count="1"/>
+    <ingredient id="5726" count="1"/>
+    <ingredient id="503" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20022" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="11">
+    <ingredient id="2384" count="1"/>
+    <ingredient id="2388" count="1"/>
+    <ingredient id="5711" count="1"/>
+    <ingredient id="5727" count="1"/>
+    <ingredient id="503" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20023" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="12">
+    <ingredient id="2397" count="1"/>
+    <ingredient id="2402" count="1"/>
+    <ingredient id="5712" count="1"/>
+    <ingredient id="5728" count="1"/>
+    <ingredient id="503" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20024" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="13">
+    <ingredient id="365" count="1"/>
+    <ingredient id="388" count="1"/>
+    <ingredient id="5765" count="1"/>
+    <ingredient id="5777" count="1"/>
+    <ingredient id="512" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20025" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="14">
+    <ingredient id="2385" count="1"/>
+    <ingredient id="2389" count="1"/>
+    <ingredient id="5766" count="1"/>
+    <ingredient id="5778" count="1"/>
+    <ingredient id="512" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20026" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="15">
+    <ingredient id="2407" count="1"/>
+    <ingredient id="5767" count="1"/>
+    <ingredient id="5779" count="1"/>
+    <ingredient id="512" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20027" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="16">
+    <ingredient id="2383" count="1"/>
+    <ingredient id="5774" count="1"/>
+    <ingredient id="5786" count="1"/>
+    <ingredient id="2419" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20028" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="17">
+    <ingredient id="2395" count="1"/>
+    <ingredient id="5775" count="1"/>
+    <ingredient id="5787" count="1"/>
+    <ingredient id="2419" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20029" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="18">
+    <ingredient id="2409" count="1"/>
+    <ingredient id="5776" count="1"/>
+    <ingredient id="5788" count="1"/>
+    <ingredient id="2419" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20030" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="19">
+    <ingredient id="374" count="1"/>
+    <ingredient id="5771" count="1"/>
+    <ingredient id="5783" count="1"/>
+    <ingredient id="2418" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20031" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="20">
+    <ingredient id="2394" count="1"/>
+    <ingredient id="5772" count="1"/>
+    <ingredient id="5784" count="1"/>
+    <ingredient id="2418" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20032" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="21">
+    <ingredient id="2408" count="1"/>
+    <ingredient id="5773" count="1"/>
+    <ingredient id="5785" count="1"/>
+    <ingredient id="2418" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20033" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="22">
+    <ingredient id="2382" count="1"/>
+    <ingredient id="5768" count="1"/>
+    <ingredient id="5780" count="1"/>
+    <ingredient id="547" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20034" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="23">
+    <ingredient id="2393" count="1"/>
+    <ingredient id="5769" count="1"/>
+    <ingredient id="5781" count="1"/>
+    <ingredient id="547" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20035" count="1"/>
+  </item>
+
+  <!-- Looted Goods - White Cargo box -->
+  <item id="24">
+    <ingredient id="2400" count="1"/>
+    <ingredient id="2405" count="1"/>
+    <ingredient id="5770" count="1"/>
+    <ingredient id="5782" count="1"/>
+    <ingredient id="547" count="1"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="20036" count="1"/>
+  </item>
+
+
+</list>

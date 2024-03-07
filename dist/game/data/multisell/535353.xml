@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created with GMshop maker v1.2 by MaJIa9I -->
+
+<!-- New multisell shop -->
+
+<list>
+
+  <!-- New item -->
+  <item id="1">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17680" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="2">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17681" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="3">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17682" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="4">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17683" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="5">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17684" count="1" enchant="0"/>
+  </item>
+
+  <!-- New item -->
+  <item id="6">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17685" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="7">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17686" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="8">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17687" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="9">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17688" count="1" enchant="0"/>
+  </item>
+
+  <!--  -->
+  <item id="10">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17689" count="1" enchant="0"/>
+  </item>
+
+  <!-- New item -->
+  <item id="11">
+    <ingredient id="9142" count="250" enchant="0"/>
+    <production id="17690" count="1" enchant="0"/>
+  </item>
+
+</list>

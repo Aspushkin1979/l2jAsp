@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Chimera. (C) 24.06.2007 ICQ#: 396-393-512  -->
+
+<!-- Weapon Shop: Weapon D Grade -->
+
+<list>
+
+  <!-- Elven Long Sword -->
+  <item id="1">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="2499" count="1" enchant="0"/>
+  </item>
+
+  <!-- Claymore -->
+  <item id="2">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="70" count="1" enchant="0"/>
+  </item>
+
+  <!-- Bonebreaker -->
+  <item id="3">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="159" count="1" enchant="0"/>
+  </item>
+
+  <!-- Ghost Staff -->
+  <item id="4">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="188" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mithril Dagger -->
+  <item id="5">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="225" count="1" enchant="0"/>
+  </item>
+
+  <!-- Light Crossbow -->
+  <item id="6">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="280" count="1" enchant="0"/>
+  </item>
+
+  <!-- Glaive -->
+  <item id="7">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="297" count="1" enchant="0"/>
+  </item>
+
+  <!-- Knight's Sword*Elven Sword -->
+  <item id="8">
+    <ingredient id="57" count="1660000" enchant="0"/>
+    <production id="2548" count="1" enchant="0"/>
+  </item>
+
+  <!-- Scallop Jamadhr -->
+  <item id="9">
+    <ingredient id="57" count="1800000" enchant="0"/>
+    <production id="262" count="1" enchant="0"/>
+  </item>
+
+</list>

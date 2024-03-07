@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!-- Prestigious Items Hall, Galladucci: weapons -->
+<list>
+
+  <item id="1">
+	<production id="9416" count="1"/>
+	<production id="9421" count="1"/>
+	<production id="9423" count="1"/>
+	<production id="9424" count="1"/>
+	<production id="9422" count="1"/>
+	<production id="9441" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="2">
+	<production id="9425" count="1"/>
+	<production id="9428" count="1"/>
+	<production id="9430" count="1"/>
+	<production id="9431" count="1"/>
+	<production id="9429" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="3">
+	<production id="9432" count="1"/>
+	<production id="9437" count="1"/>
+	<production id="9439" count="1"/>
+	<production id="9440" count="1"/>
+	<production id="9438" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="4">
+	<production id="6373" count="1"/>
+	<production id="6374" count="1"/>
+	<production id="6375" count="1"/>
+	<production id="6376" count="1"/>
+	<production id="6377" count="1"/>
+	<production id="6378" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="5">
+	<production id="6379" count="1"/>
+	<production id="6380" count="1"/>
+	<production id="6381" count="1"/>
+	<production id="6382" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="6">
+	<production id="6383" count="1"/>
+	<production id="6384" count="1"/>
+	<production id="6385" count="1"/>
+	<production id="6386" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+  <item id="7">
+    <production id="6657" count="1"/>
+	<production id="6659" count="1"/>
+	<production id="6656" count="1"/>
+	<production id="6658" count="1"/>
+	<production id="6660" count="1"/>
+	<ingredient id="20012" count="1"/>
+  </item>
+
+  </list>
+

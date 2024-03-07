@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+  <!-- Life stone -->
+  <item id="1">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="8733" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="2">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="8734" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="3">
+    <ingredient id="57" count="15000000" enchant="0"/>
+    <production id="8735" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="4">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="8736" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="5">
+    <ingredient id="57" count="25000000" enchant="0"/>
+    <production id="8737" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="6">
+    <ingredient id="57" count="30000000" enchant="0"/>
+    <production id="8738" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="7">
+    <ingredient id="57" count="35000000" enchant="0"/>
+    <production id="8739" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="8">
+    <ingredient id="57" count="40000000" enchant="0"/>
+    <production id="8740" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="9">
+    <ingredient id="57" count="45000000" enchant="0"/>
+    <production id="8741" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="10">
+    <ingredient id="57" count="50000000" enchant="0"/>
+    <production id="8742" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="11">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="8743" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="12">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="8744" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="13">
+    <ingredient id="57" count="15000000" enchant="0"/>
+    <production id="8745" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="14">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="8746" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="15">
+    <ingredient id="57" count="25000000" enchant="0"/>
+    <production id="8747" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="16">
+    <ingredient id="57" count="30000000" enchant="0"/>
+    <production id="8748" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="17">
+    <ingredient id="57" count="35000000" enchant="0"/>
+    <production id="8749" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="18">
+    <ingredient id="57" count="40000000" enchant="0"/>
+    <production id="8750" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="19">
+    <ingredient id="57" count="45000000" enchant="0"/>
+    <production id="8751" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="20">
+    <ingredient id="57" count="50000000" enchant="0"/>
+    <production id="8752" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="21">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="8753" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="22">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="8754" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="23">
+    <ingredient id="57" count="15000000" enchant="0"/>
+    <production id="8755" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="24">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="8756" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="25">
+    <ingredient id="57" count="25000000" enchant="0"/>
+    <production id="8757" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="26">
+    <ingredient id="57" count="30000000" enchant="0"/>
+    <production id="8758" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="27">
+    <ingredient id="57" count="35000000" enchant="0"/>
+    <production id="8759" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="28">
+    <ingredient id="57" count="40000000" enchant="0"/>
+    <production id="8760" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="29">
+    <ingredient id="57" count="45000000" enchant="0"/>
+    <production id="8761" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="30">
+    <ingredient id="57" count="50000000" enchant="0"/>
+    <production id="8762" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="31">
+    <ingredient id="57" count="5000000" enchant="0"/>
+    <production id="8723" count="1" enchant="0"/>
+  </item>
+    
+  <!-- Life stone -->
+  <item id="32">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="8724" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="33">
+    <ingredient id="57" count="15000000" enchant="0"/>
+    <production id="8725" count="1" enchant="0"/>
+  </item>
+ 
+  <!-- Life stone -->
+  <item id="34">
+    <ingredient id="57" count="20000000" enchant="0"/>
+    <production id="8726" count="1" enchant="0"/>
+  </item>
+ 
+  <!-- Life stone -->
+  <item id="35">
+    <ingredient id="57" count="25000000" enchant="0"/>
+    <production id="8727" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Life stone -->
+  <item id="36">
+    <ingredient id="57" count="30000000" enchant="0"/>
+    <production id="8728" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="37">
+    <ingredient id="57" count="35000000" enchant="0"/>
+    <production id="8729" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="38">
+    <ingredient id="57" count="40000000" enchant="0"/>
+    <production id="8730" count="1" enchant="0"/>
+  </item>
+ 
+  <!-- Life stone -->
+  <item id="39">
+    <ingredient id="57" count="45000000" enchant="0"/>
+    <production id="8731" count="1" enchant="0"/>
+  </item>
+
+  <!-- Life stone -->
+  <item id="40">
+    <ingredient id="57" count="50000000" enchant="0"/>
+    <production id="8732" count="1" enchant="0"/>
+  </item>
+  <!-- D-GEM  -->
+  <item id="41">
+    <ingredient id="57" count="200000" enchant="0"/>
+    <production id="2130" count="2" enchant="0"/>
+  </item>
+
+  <!-- C-GEM -->
+  <item id="42">
+    <ingredient id="57" count="250000" enchant="0"/>
+    <production id="2131" count="2" enchant="0"/>
+  </item>
+
+</list>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Brigandine Helmet -->
+  <item id="1">
+    <ingredient id="57" count="112000"/>
+    <production id="2411" count="1"/>
+  </item>
+
+  <!-- Brigandine Tunic -->
+  <item id="2">
+    <ingredient id="57" count="299000"/>
+    <production id="352" count="1"/>
+  </item>
+
+  <!-- Brigandine Gaiters -->
+  <item id="3">
+    <ingredient id="57" count="187000"/>
+    <production id="2378" count="1"/>
+  </item>
+
+  <!-- Brigandine Gauntlets -->
+  <item id="4">
+    <ingredient id="57" count="100000"/>
+    <production id="2449" count="1"/>
+  </item>
+
+  <!-- Brigandine Boots -->
+  <item id="5">
+    <ingredient id="57" count="100000"/>
+    <production id="2425" count="1"/>
+  </item>
+
+  <!-- Brigandine Shield -->
+  <item id="6">
+    <ingredient id="57" count="78400"/>
+    <production id="2493" count="1"/>
+  </item>
+
+  <!-- Helmet -->
+  <item id="7">
+    <ingredient id="57" count="76200"/>
+    <production id="47" count="1"/>
+  </item>
+
+  <!-- Mithril Breastplate -->
+  <item id="8">
+    <ingredient id="57" count="183000"/>
+    <production id="58" count="1"/>
+  </item>
+
+  <!-- Mithril Gaiters -->
+  <item id="9">
+    <ingredient id="57" count="127000"/>
+    <production id="59" count="1"/>
+  </item>
+
+  <!-- Hoplon -->
+  <item id="10">
+    <ingredient id="57" count="53300"/>
+    <production id="628" count="1"/>
+  </item>
+
+
+</list>

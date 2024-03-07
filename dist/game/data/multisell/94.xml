@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Draconic Leather Helmet -->
+  <item id="1">
+    <ingredient id="57" count="5370000"/>
+    <production id="6382" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Armor -->
+  <item id="2">
+    <ingredient id="57" count="17400000"/>
+    <production id="6379" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Gloves -->
+  <item id="3">
+    <ingredient id="57" count="3580000"/>
+    <production id="6380" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Boots -->
+  <item id="4">
+    <ingredient id="57" count="3580000"/>
+    <production id="6381" count="1"/>
+  </item>
+
+
+</list>

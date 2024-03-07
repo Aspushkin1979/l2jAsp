@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Bagh-Nakh -->
+  <item id="1">
+    <ingredient id="57" count="409000"/>
+    <production id="258" count="1"/>
+  </item>
+
+  <!-- Single-Edged Jamadhr -->
+  <item id="2">
+    <ingredient id="57" count="644000"/>
+    <production id="259" count="1"/>
+  </item>
+
+  <!-- Triple-Edged Jamadhr -->
+  <item id="3">
+    <ingredient id="57" count="967000"/>
+    <production id="260" count="1"/>
+  </item>
+
+  <!-- Bich'Hwa -->
+  <item id="4">
+    <ingredient id="57" count="1400000"/>
+    <production id="261" count="1"/>
+  </item>
+
+  <!-- Scallop Jamadhr -->
+  <item id="5">
+    <ingredient id="57" count="1800000"/>
+    <production id="262" count="1"/>
+  </item>
+
+
+</list>

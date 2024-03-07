@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Chimera. (C) 24.06.2007 ICQ#: 396-393-512  -->
+
+<!-- Armor Shop: Jewerly -->
+
+<list>
+
+  <!-- Necklace of Darkness -->
+  <item id="1">
+    <ingredient id="57" count="322000" enchant="0"/>
+    <production id="914" count="1" enchant="0"/>
+  </item>
+
+  <!-- Omen Beast's Eye Earring -->
+  <item id="2">
+    <ingredient id="57" count="242000" enchant="0"/>
+    <production id="851" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mithril Ring -->
+  <item id="3">
+    <ingredient id="57" count="161600" enchant="0"/>
+    <production id="882" count="1" enchant="0"/>
+  </item>
+
+  <!-- Necklace of Binding -->
+  <item id="4">
+    <ingredient id="57" count="1130000" enchant="0"/>
+    <production id="119" count="1" enchant="0"/>
+  </item>
+
+  <!-- Earring of Binding -->
+  <item id="5">
+    <ingredient id="57" count="590000" enchant="0"/>
+    <production id="854" count="1" enchant="0"/>
+  </item>
+
+  <!-- Ring of Binding -->
+  <item id="6">
+    <ingredient id="57" count="564000" enchant="0"/>
+    <production id="886" count="1" enchant="0"/>
+  </item>
+
+  <!-- Necklace of Black Ore -->
+  <item id="7">
+    <ingredient id="57" count="2460000" enchant="0"/>
+    <production id="926" count="1" enchant="0"/>
+  </item>
+
+  <!-- Earring of Black Ore -->
+  <item id="8">
+    <ingredient id="57" count="1848000" enchant="0"/>
+    <production id="864" count="1" enchant="0"/>
+  </item>
+
+  <!-- Ring of Black Ore -->
+  <item id="9">
+    <ingredient id="57" count="1232000" enchant="0"/>
+    <production id="895" count="1" enchant="0"/>
+  </item>
+
+  <!-- Majestic Necklace -->
+  <item id="10">
+    <ingredient id="57" count="6900000" enchant="0"/>
+    <production id="924" count="1" enchant="0"/>
+  </item>
+
+  <!-- Majestic Earring -->
+  <item id="11">
+    <ingredient id="57" count="5180000" enchant="0"/>
+    <production id="862" count="1" enchant="0"/>
+  </item>
+
+  <!-- Majestic Ring -->
+  <item id="12">
+    <ingredient id="57" count="3460000" enchant="0"/>
+    <production id="893" count="1" enchant="0"/>
+  </item>
+
+  <!-- Tateossian Necklace -->
+  <item id="13">
+    <ingredient id="57" count="11840000" enchant="0"/>
+    <production id="920" count="1" enchant="0"/>
+  </item>
+
+  <!-- Tateossian Earring -->
+  <item id="14">
+    <ingredient id="57" count="8880000" enchant="0"/>
+    <production id="858" count="1" enchant="0"/>
+  </item>
+
+  <!-- Tateossian Ring -->
+  <item id="15">
+    <ingredient id="57" count="5920000" enchant="0"/>
+    <production id="889" count="1" enchant="0"/>
+  </item>
+
+</list>

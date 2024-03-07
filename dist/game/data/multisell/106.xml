@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Cerberus Ring -->
+  <item id="1">
+    <ingredient id="57" count="1300000"/>
+    <production id="903" count="1"/>
+  </item>
+
+  <!-- Cerberus Earring -->
+  <item id="2">
+    <ingredient id="57" count="1950000"/>
+    <production id="872" count="1"/>
+  </item>
+
+  <!-- Cerberus Necklace -->
+  <item id="3">
+    <ingredient id="57" count="2600000"/>
+    <production id="934" count="1"/>
+  </item>
+
+  <!-- Ring of Phantom -->
+  <item id="4">
+    <ingredient id="57" count="1300000"/>
+    <production id="899" count="1"/>
+  </item>
+
+  <!-- Earring of Phantom -->
+  <item id="5">
+    <ingredient id="57" count="1950000"/>
+    <production id="868" count="1"/>
+  </item>
+
+  <!-- Necklace of Phantom -->
+  <item id="6">
+    <ingredient id="57" count="2600000"/>
+    <production id="930" count="1"/>
+  </item>
+
+  <!-- Phoenix Ring -->
+  <item id="7">
+    <ingredient id="57" count="1300000"/>
+    <production id="902" count="1"/>
+  </item>
+
+  <!-- Phoenix Earring -->
+  <item id="8">
+    <ingredient id="57" count="1950000"/>
+    <production id="871" count="1"/>
+  </item>
+
+  <!-- Phoenix Necklace -->
+  <item id="9">
+    <ingredient id="57" count="2600000"/>
+    <production id="933" count="1"/>
+  </item>
+
+  <!-- Majestic Ring -->
+  <item id="10">
+    <ingredient id="57" count="1730000"/>
+    <production id="893" count="1"/>
+  </item>
+
+  <!-- Majestic Earring -->
+  <item id="11">
+    <ingredient id="57" count="2590000"/>
+    <production id="862" count="1"/>
+  </item>
+
+  <!-- Majestic Necklace -->
+  <item id="12">
+    <ingredient id="57" count="3450000"/>
+    <production id="924" count="1"/>
+  </item>
+
+
+</list>

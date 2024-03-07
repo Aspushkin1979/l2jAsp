@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- Grey Team GM Shop MAX 5.1 -->
+
+<list>
+
+  <!-- Dragonflute of Wind -->
+  <item id="1">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="3500" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dragonflute of Star -->
+  <item id="2">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="3501" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dragonflute of Twilight -->
+  <item id="3">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="3502" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dragon Bugle of Wind -->
+  <item id="4">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="4422" count="1" enchant="0"/>
+  </item>  
+
+  <!-- Dragon Bugle of Star -->
+  <item id="5">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="4423" count="1" enchant="0"/>
+  </item> 
+  
+  <!-- Dragon Bugle of Dusk -->
+  <item id="6">
+    <ingredient id="57" count="10000000" enchant="0"/>
+    <production id="4424" count="1" enchant="0"/>
+  </item> 
+
+  <!-- Baby Buffalo Panpipe -->
+  <item id="7">
+    <ingredient id="57" count="3500000" enchant="0"/>
+    <production id="6648" count="1" enchant="0"/>
+  </item>  
+
+  <!-- Baby Cougar Chime -->
+  <item id="8">
+    <ingredient id="57" count="3500000" enchant="0"/>
+    <production id="6649" count="1" enchant="0"/>
+  </item> 
+  
+  <!-- Baby Kookaburra Ocarina -->
+  <item id="9">
+    <ingredient id="57" count="3500000" enchant="0"/>
+    <production id="6650" count="1" enchant="0"/>
+  </item>
+
+  <!-- Wolf -->
+  <item id="10">
+    <ingredient id="57" count="3500000" enchant="0"/>
+    <production id="2375" count="1" enchant="0"/>
+  </item>
+
+</list>

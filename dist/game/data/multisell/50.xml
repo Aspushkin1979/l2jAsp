@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Hand Axe -->
+  <item id="1">
+    <ingredient id="57" count="409000"/>
+    <production id="156" count="1"/>
+  </item>
+
+  <!-- Heavy Mace -->
+  <item id="2">
+	<ingredient id="57" count="409000"/>
+    <production id="166" count="1"/>
+  </item>
+
+  <!-- Scalpel -->
+  <item id="3">
+	<ingredient id="57" count="409000"/>
+    <production id="167" count="1"/>
+  </item>
+
+  <!-- Work Hammer -->
+  <item id="4">
+	<ingredient id="57" count="409000"/>
+    <production id="168" count="1"/>
+  </item>
+
+  <!-- Bone Staff -->
+  <item id="5">
+	<ingredient id="57" count="409000"/>
+    <production id="178" count="1"/>
+  </item>
+
+  <!-- Conjuror's Staff -->
+  <item id="6">
+	<ingredient id="57" count="409000"/>
+    <production id="184" count="1"/>
+  </item>
+
+  <!-- Doom Hammer -->
+  <item id="7">
+  <ingredient id="57" count="644000"/>
+    <production id="182" count="1"/>
+  </item>
+
+  <!-- Mace of Judgment -->
+  <item id="8">
+  <ingredient id="57" count="644000"/>
+    <production id="180" count="1"/>
+  </item>
+
+  <!-- Mace of Miracle -->
+  <item id="9">
+  <ingredient id="57" count="644000"/>
+    <production id="181" count="1"/>
+  </item>
+
+  <!-- Mace of Prayer -->
+  <item id="10">
+  <ingredient id="57" count="644000"/>
+    <production id="179" count="1"/>
+  </item>
+
+  <!-- Tomahawk -->
+  <item id="11">
+  <ingredient id="57" count="644000"/>
+    <production id="86" count="1"/>
+  </item>
+
+  <!-- Mystic Staff -->
+  <item id="12">
+  <ingredient id="57" count="644000"/>
+    <production id="183" count="1"/>
+  </item>
+
+  <!-- Staff of Mana -->
+  <item id="13">
+  <ingredient id="57" count="644000"/>
+    <production id="185" count="1"/>
+  </item>
+
+  <!-- Spiked Club -->
+  <item id="14">
+  <ingredient id="57" count="967000"/>
+    <production id="157" count="1"/>
+  </item>
+
+  <!-- Staff of Magic -->
+  <item id="15">
+  <ingredient id="57" count="967000"/>
+    <production id="186" count="1"/>
+  </item>
+
+  <!-- Heavy Bone Club -->
+  <item id="16">
+  <ingredient id="57" count="1400000"/>
+    <production id="172" count="1"/>
+  </item>
+
+  <!-- Morning Star -->
+  <item id="17">
+  <ingredient id="57" count="1400000"/>
+    <production id="88" count="1"/>
+  </item>
+
+  <!-- Skull Breaker -->
+  <item id="18">
+  <ingredient id="57" count="1400000"/>
+    <production id="169" count="1"/>
+  </item>
+
+  <!-- Tarbar -->
+  <item id="19">
+  <ingredient id="57" count="1400000"/>
+    <production id="158" count="1"/>
+  </item>
+
+  <!-- Goat Head Staff -->
+  <item id="20">
+  <ingredient id="57" count="1400000"/>
+    <production id="90" count="1"/>
+  </item>
+
+  <!-- Staff of Life -->
+  <item id="21">
+  <ingredient id="57" count="1800000"/>
+    <production id="189" count="1"/>
+  </item>
+
+  <!-- Bonebreaker -->
+  <item id="22">
+  <ingredient id="57" count="1800000"/>
+    <production id="159" count="1"/>
+  </item>
+
+  <!-- Atuba Hammer -->
+  <item id="23">
+  <ingredient id="57" count="1800000"/>
+    <production id="187" count="1"/>
+  </item>
+
+  <!-- Atuba Mace -->
+  <item id="24">
+  <ingredient id="57" count="1800000"/>
+    <production id="190" count="1"/>
+  </item>
+
+  <!-- Ghost Staff -->
+  <item id="25">
+  <ingredient id="57" count="1800000"/>
+    <production id="188" count="1"/>
+  </item>
+
+
+</list>

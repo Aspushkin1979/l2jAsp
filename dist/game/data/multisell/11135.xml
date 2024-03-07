@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+	<!-- Baium's Ring -->
+	<item id="1">
+		<ingredient id="4037" count="200"/>
+		<production id="6658" count="1"/>
+	</item>
+
+	<!-- Ring of Queen Ant -->
+	<item id="2">
+		<ingredient id="4037" count="150"/>
+		<production id="6660" count="1"/>
+	</item>
+
+	<!-- Antharas Earring -->
+	<item id="3">
+		<ingredient id="4037" count="200"/>
+		<production id="6656" count="1"/>
+	</item>
+
+	<!-- Zaken's Earring -->
+	<item id="4">
+		<ingredient id="4037" count="150"/>
+		<production id="6659" count="1"/>
+	</item>
+
+	<!-- Neckle of Valakas -->
+	<item id="5">
+		<ingredient id="4037" count="200"/>
+		<production id="6657" count="1"/>
+	</item>
+
+</list>

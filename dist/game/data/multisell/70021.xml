@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Dragonflute of Star -->
+  <item id="1">
+    <ingredient id="57" count="50000000"/>
+    <production id="3501" count="1"/>
+  </item>
+
+  <!-- Dragonflute of Twilight -->
+  <item id="2">
+    <ingredient id="57" count="50000000"/>
+    <production id="3502" count="1"/>
+  </item>
+
+  <!-- Dragonflute of Wind -->
+  <item id="3">
+    <ingredient id="57" count="50000000"/>
+    <production id="3500" count="1"/>
+  </item>
+
+  <!-- Dragon Bugle of Dusk -->
+  <item id="4">
+    <ingredient id="57" count="20000000"/>
+    <production id="4424" count="1"/>
+  </item>
+
+  <!-- Dragon Bugle of Star -->
+  <item id="5">
+    <ingredient id="57" count="20000000"/>
+    <production id="4423" count="1"/>
+  </item>
+
+  <!-- Dragon Bugle of Wind -->
+  <item id="6">
+    <ingredient id="57" count="20000000"/>
+    <production id="4422" count="1"/>
+  </item>
+
+  <!-- Baby Spice -->
+  <item id="7">
+    <ingredient id="57" count="250"/>
+    <production id="7582" count="1"/>
+  </item>
+
+  <!-- Beast Soulshot -->
+  <item id="8">
+    <ingredient id="57" count="500000"/>
+    <production id="6645" count="1000"/>
+  </item>
+
+  <!-- Blessed Beast Spiritshot -->
+  <item id="9">
+    <ingredient id="57" count="600000"/>
+    <production id="6647" count="1000"/>
+  </item>
+
+  <!-- Diamond Drill -->
+  <item id="10">
+    <ingredient id="57" count="15000000"/>
+    <production id="5181" count="1"/>
+  </item>
+
+  <!-- Inferno Panzer Coat -->
+  <item id="11">
+    <ingredient id="57" count="15000000"/>
+    <production id="5175" count="1"/>
+  </item>
+
+
+</list>

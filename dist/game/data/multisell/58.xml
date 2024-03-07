@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Deathbringer Sword -->
+  <item id="1">
+    <ingredient id="57" count="27000000"/>
+    <production id="345" count="1"/>
+  </item>
+
+  <!-- Enchanted Flute -->
+  <item id="2">
+    <ingredient id="57" count="27000000"/>
+    <production id="342" count="1"/>
+  </item>
+
+  <!-- Forgotten Tome -->
+  <item id="3">
+    <ingredient id="57" count="27000000"/>
+    <production id="341" count="1"/>
+  </item>
+
+  <!-- Headless Arrow -->
+  <item id="4">
+    <ingredient id="57" count="27000000"/>
+    <production id="343" count="1"/>
+  </item>
+
+  <!-- Proof of Overlord -->
+  <item id="5">
+    <ingredient id="57" count="27000000"/>
+    <production id="344" count="1"/>
+  </item>
+
+
+</list>

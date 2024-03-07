@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+
+<list>
+
+  <!-- [Ring of Sage Gemstone] for [Adena] -->
+  <item id="1">
+    <ingredient id="57" count="100000"/>
+    <production id="1919" count="1"/>
+  </item>
+
+  <!-- [Sage's Necklace Chain] for [Adena] -->
+  <item id="2">
+    <ingredient id="57" count="100000"/>
+    <production id="1917" count="1"/>
+  </item>
+
+  <!-- [Earring of Black Ore Piece] for [Adena] -->
+  <item id="3">
+    <ingredient id="57" count="100000"/>
+    <production id="4052" count="1"/>
+  </item>
+
+  <!-- [Ring Of Black Ore Gemstone] for [Adena] -->
+  <item id="4">
+    <ingredient id="57" count="100000"/>
+    <production id="4053" count="1"/>
+  </item>
+
+  <!-- [Necklace of Black Ore Beads] for [Adena] -->
+  <item id="5">
+    <ingredient id="57" count="100000"/>
+    <production id="4054" count="1"/>
+  </item>
+
+  <!-- [Implosian Boots Part] for [Adena] -->
+  <item id="6">
+    <ingredient id="57" count="100000"/>
+    <production id="4058" count="1"/>
+  </item>
+
+  <!-- [Paradia Boots Pattern] for [Adena] -->
+  <item id="7">
+    <ingredient id="57" count="100000"/>
+    <production id="4061" count="1"/>
+  </item>
+
+  <!-- [Elemental Boots Lining] for [Adena] -->
+  <item id="8">
+    <ingredient id="57" count="100000"/>
+    <production id="4062" count="1"/>
+  </item>
+
+  <!-- [Boots of Grace Lining] for [Adena] -->
+  <item id="9">
+    <ingredient id="57" count="100000"/>
+    <production id="4063" count="1"/>
+  </item>
+ 
+  <!-- [Doom Shield Fragment] for [Adena] -->
+  <item id="10">
+    <ingredient id="57" count="100000"/>
+    <production id="4077" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Breastplate Part] for [Adena] -->
+  <item id="11">
+    <ingredient id="57" count="100000"/>
+    <production id="4078" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Gaiters Material] for [Adena] -->
+  <item id="12">
+    <ingredient id="57" count="100000"/>
+    <production id="4080" count="1"/>
+  </item>
+
+  <!-- [Doom Plate Armor Temper] for [Adena] -->
+  <item id="13">
+    <ingredient id="57" count="200000"/>
+    <production id="4081" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Leather Armor Texture] for [Adena] -->
+  <item id="14">
+    <ingredient id="57" count="100000"/>
+    <production id="4082" count="1"/>
+  </item>
+
+  <!-- [Leather Mail of Doom Design] for [Adena] -->
+  <item id="15">
+    <ingredient id="57" count="200000"/>
+    <production id="4083" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Tunic Fabric] for [Adena] -->
+  <item id="16">
+    <ingredient id="57" count="200000"/>
+    <production id="4084" count="1"/>
+  </item>
+
+  <!-- [Tunic of Doom Pattern] for [Adena] -->
+  <item id="17">
+    <ingredient id="57" count="200000"/>
+    <production id="4085" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Stockings Pattern] for [Adena] -->
+  <item id="18">
+    <ingredient id="57" count="100000"/>
+    <production id="4086" count="1"/>
+  </item>
+
+  <!-- [Stocking of Doom Pattern] for [Adena] -->
+  <item id="19">
+    <ingredient id="57" count="100000"/>
+    <production id="4087" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Helmet Design] for [Adena] -->
+  <item id="20">
+    <ingredient id="57" count="100000"/>
+    <production id="4088" count="1"/>
+  </item>
+
+  <!-- [Doom Helmet Pattern] for [Adena] -->
+  <item id="21">
+    <ingredient id="57" count="100000"/>
+    <production id="4089" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Boots Design] for [Adena] -->
+  <item id="23">
+    <ingredient id="57" count="100000"/>
+    <production id="4090" count="1"/>
+  </item>
+
+  <!-- [Doom Gloves Part] for [Adena] -->
+  <item id="24">
+    <ingredient id="57" count="100000"/>
+    <production id="4091" count="1"/>
+  </item>
+
+  <!-- [Elemental Gloves Lining] for [Adena] -->
+  <item id="25">
+    <ingredient id="57" count="100000"/>
+    <production id="4092" count="1"/>
+  </item>
+
+  <!-- [Gloves of Grace Lining] for [Adena] -->
+  <item id="26">
+    <ingredient id="57" count="100000"/>
+    <production id="4093" count="1"/>
+  </item>
+ 
+  <!-- [Implosion Gauntlet Fabric] for [Adena] -->
+  <item id="27">
+    <ingredient id="57" count="100000"/>
+    <production id="4094" count="1"/>
+  </item>
+
+  <!-- [Paradia Gloves Pattern] for [Adena] -->
+  <item id="28">
+    <ingredient id="57" count="100000"/>
+    <production id="4095" count="1"/>
+  </item>
+
+  <!-- [Blue Wolf Gloves Fabric] for [Adena] -->
+  <item id="29">
+    <ingredient id="57" count="100000"/>
+    <production id="4096" count="1"/>
+  </item>
+
+  <!-- [Doom Boots Part] for [Adena] -->
+  <item id="30">
+    <ingredient id="57" count="100000"/>
+    <production id="4099" count="1"/>
+  </item>
+
+  <!-- [Sword of Damascus Blade] for [Adena] -->
+  <item id="31">
+    <ingredient id="57" count="1000000"/>
+    <production id="4114" count="1"/>
+  </item>
+
+  <!-- [Lance Blade] for [Adena] -->
+  <item id="32">
+    <ingredient id="57" count="1000000"/>
+    <production id="4115" count="1"/>
+  </item>
+
+  <!-- [Deadman's Glory Stone] for [Adena] -->
+  <item id="33">
+    <ingredient id="57" count="1000000"/>
+    <production id="4116" count="1"/>
+  </item>
+
+  <!-- [Art of Battle Axe Blade] for [Adena] -->
+  <item id="34">
+    <ingredient id="57" count="1000000"/>
+    <production id="4117" count="1"/>
+  </item>
+
+  <!-- [Staff of Evil Spirit Head] for [Adena] -->
+  <item id="35">
+    <ingredient id="57" count="1000000"/>
+    <production id="4118" count="1"/>
+  </item>
+
+  <!-- [Demon's Sword Edge] for [Adena] -->
+  <item id="36">
+    <ingredient id="57" count="1000000"/>
+    <production id="4119" count="1"/>
+  </item>
+
+  <!-- [Bellion Cestus Edge] for [Adena] -->
+  <item id="37">
+    <ingredient id="57" count="1000000"/>
+    <production id="4120" count="1"/>
+  </item>
+
+  <!-- [Bow of Peril Shaft] for [Adena] -->
+  <item id="38">
+    <ingredient id="57" count="1000000"/>
+    <production id="4121" count="1"/>
+  </item>
+
+  
+
+
+  <!-- [Adamantite Earring Gemstone] for [Adena] -->
+  <item id="39">
+    <ingredient id="57" count="100000"/>
+    <production id="4049" count="1"/>
+  </item>
+
+  <!-- [Adamantite Ring Wire] for [Adena] -->
+  <item id="40">
+    <ingredient id="57" count="100000"/>
+    <production id="4050" count="1"/>
+  </item>
+
+  <!-- [Adamantite Neclace Chain] for [Adena] -->
+  <item id="41">
+    <ingredient id="57" count="100000"/>
+    <production id="4051" count="1"/>
+  </item>
+
+  <!-- [Zubei's Breastplate Part] for [Adena] -->
+  <item id="42">
+    <ingredient id="57" count="100000"/>
+    <production id="4056" count="1"/>
+  </item>
+
+  <!-- [Zubei's Gaiter Material] for [Adena] -->
+  <item id="43">
+    <ingredient id="57" count="100000"/>
+    <production id="4057" count="1"/>
+  </item>
+
+  <!-- [Boots of Silence Fabric] for [Adena] -->
+  <item id="44">
+    <ingredient id="57" count="100000"/>
+    <production id="4059" count="1"/>
+  </item>
+
+  <!-- [Guardian's Boots Fabric] for [Adena] -->
+  <item id="45">
+    <ingredient id="57" count="100000"/>
+    <production id="4060" count="1"/>
+  </item>
+
+  <!-- [Avadon Breastplate Part] for [Adena] -->
+  <item id="46">
+    <ingredient id="57" count="100000"/>
+    <production id="4064" count="1"/>
+  </item>
+
+  <!-- [Avadon Gaiters Material] for [Adena] -->
+  <item id="47">
+    <ingredient id="57" count="100000"/>
+    <production id="4065" count="1"/>
+  </item>
+
+  <!-- [Zubei's Leather Shirt Fabric] for [Adena] -->
+  <item id="48">
+    <ingredient id="57" count="100000"/>
+    <production id="4066" count="1"/>
+  </item>
+
+  <!-- [Zubei's Leather Gaiter Texture] for [Adena] -->
+  <item id="49">
+    <ingredient id="57" count="100000"/>
+    <production id="4067" count="1"/>
+  </item>
+
+  <!-- [Avadon Leather Mail Lining] for [Adena] -->
+  <item id="50">
+    <ingredient id="57" count="100000"/>
+    <production id="4068" count="1"/>
+  </item>
+
+  <!-- [Tunic of Zubei Fabric] for [Adena] -->
+  <item id="51">
+    <ingredient id="57" count="100000"/>
+    <production id="4069" count="1"/>
+  </item>
+
+  <!-- [Stockings of Zubei Fabric] for [Adena] -->
+  <item id="52">
+    <ingredient id="57" count="100000"/>
+    <production id="4070" count="1"/>
+  </item>
+
+  <!-- [Avadon Robe Fabric] for [Adena] -->
+  <item id="53">
+    <ingredient id="57" count="100000"/>
+    <production id="4071" count="1"/>
+  </item>
+
+  <!-- [Avadon Circlet Pattern] for [Adena] -->
+  <item id="54">
+    <ingredient id="57" count="100000"/>
+    <production id="4072" count="1"/>
+  </item>
+
+  <!-- [Avadon Gloves Part] for [Adena] -->
+  <item id="55">
+    <ingredient id="57" count="100000"/>
+    <production id="4073" count="1"/>
+  </item>
+
+  <!-- [Chain Gloves of Silence Design] for [Adena] -->
+  <item id="56">
+    <ingredient id="57" count="100000"/>
+    <production id="4074" count="1"/>
+  </item>
+
+  <!-- [Guardian's Gloves Design] for [Adena] -->
+  <item id="57">
+    <ingredient id="57" count="100000"/>
+    <production id="4075" count="1"/>
+  </item>
+
+  <!-- [Gloves of Blessing Pattern] for [Adena] -->
+  <item id="58">
+    <ingredient id="57" count="100000"/>
+    <production id="4076" count="1"/>
+  </item>
+
+  <!-- [Boots of Blessing Design] for [Adena] -->
+  <item id="59">
+    <ingredient id="57" count="100000"/>
+    <production id="4079" count="1"/>
+  </item>
+
+  <!-- [Zubei's Boots Design] for [Adena] -->
+  <item id="60">
+    <ingredient id="57" count="100000"/>
+    <production id="4097" count="1"/>
+  </item>
+
+  <!-- [Avadon Boots Design] for [Adena] -->
+  <item id="61">
+    <ingredient id="57" count="100000"/>
+    <production id="4098" count="1"/>
+  </item>
+
+  <!-- [Zubei's Gauntlet Part] for [Adena] -->
+  <item id="62">
+    <ingredient id="57" count="100000"/>
+    <production id="4100" count="1"/>
+  </item>
+
+  <!-- [Zubei's Shield Fragment] for [Adena] -->
+  <item id="63">
+    <ingredient id="57" count="100000"/>
+    <production id="4101" count="1"/>
+  </item>
+
+  <!-- [Zubei's Helmet Design] for [Adena] -->
+  <item id="64">
+    <ingredient id="57" count="100000"/>
+    <production id="4102" count="1"/>
+  </item>
+
+  <!-- [Pata Blade] for [Adena] -->
+  <item id="65">
+    <ingredient id="57" count="1000000"/>
+    <production id="4103" count="1"/>
+  </item>
+
+  <!-- [Great Sword Blade] for [Adena] -->
+  <item id="66">
+    <ingredient id="57" count="10000000"/>
+    <production id="4104" count="1"/>
+  </item>
+
+  <!-- [Heavy War Axe Head] for [Adena] -->
+  <item id="67">
+    <ingredient id="57" count="1000000"/>
+    <production id="4105" count="1"/>
+  </item>
+
+  <!-- [Sprite's Staff Head] for [Adena] -->
+  <item id="68">
+    <ingredient id="57" count="1000000"/>
+    <production id="4106" count="1"/>
+  </item>
+
+  <!-- [Keshanberk Blade] for [Adena] -->
+  <item id="69">
+    <ingredient id="57" count="1000000"/>
+    <production id="4107" count="1"/>
+  </item>
+
+  <!-- [Sword of Valhalla Blade] for [Adena] -->
+  <item id="70">
+    <ingredient id="57" count="1000000"/>
+    <production id="4108" count="1"/>
+  </item>
+
+  <!-- [Kris Edge] for [Adena] -->
+  <item id="71">
+    <ingredient id="57" count="1000000"/>
+    <production id="4109" count="1"/>
+  </item>
+
+  <!-- [Hell Knife Edge] for [Adena] -->
+  <item id="72">
+    <ingredient id="57" count="1000000"/>
+    <production id="4110" count="1"/>
+  </item>
+
+  <!-- [Arthro Nail Blade] for [Adena] -->
+  <item id="73">
+    <ingredient id="57" count="1000000"/>
+    <production id="4111" count="1"/>
+  </item>
+
+  <!-- [Dark Elven Long Bow Shaft] for [Adena] -->
+  <item id="74">
+    <ingredient id="57" count="1000000"/>
+    <production id="4112" count="1"/>
+  </item>
+
+  <!-- [Great Axe Head] for [Adena] -->
+  <item id="75">
+    <ingredient id="57" count="1000000"/>
+    <production id="4113" count="1"/>
+  </item>
+
+  <!-- [Berserker Blade Edge] for [Adena] -->
+  <item id="76">
+    <ingredient id="57" count="1000000"/>
+    <production id="5530" count="1"/>
+  </item>
+  <item id="77">
+    <ingredient id="57" count="1000000"/>
+    <production id="8330" count="1"/>
+  </item>
+    <item id="78">
+    <ingredient id="57" count="1000000"/>
+    <production id="8336" count="1"/>
+  </item>
+    <item id="79">
+    <ingredient id="57" count="2000000"/>
+    <production id="8340" count="1"/>
+  </item>
+  <item id="80">
+    <ingredient id="57" count="1000000"/>
+    <production id="8339" count="1"/>
+  </item>
+  <item id="81">
+    <ingredient id="57" count="1000000"/>
+    <production id="8348" count="1"/>
+  </item>
+  <item id="82">
+    <ingredient id="57" count="1000000"/>
+    <production id="8347" count="1"/>
+  </item>
+  
+  
+
+  </list>
+

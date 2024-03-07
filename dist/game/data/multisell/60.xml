@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Strengthened Bow -->
+  <item id="1">
+    <ingredient id="57" count="409000"/>
+    <production id="274" count="1"/>
+  </item>
+
+  <!-- Dark Elven Bow -->
+  <item id="2">
+    <ingredient id="57" count="644000"/>
+    <production id="277" count="1"/>
+  </item>
+
+  <!-- Elven Bow -->
+  <item id="3">
+    <ingredient id="57" count="644000"/>
+    <production id="276" count="1"/>
+  </item>
+
+  <!-- Long Bow -->
+  <item id="4">
+    <ingredient id="57" count="644000"/>
+    <production id="275" count="1"/>
+  </item>
+
+  <!-- Gastraphetes -->
+  <item id="5">
+    <ingredient id="57" count="967000"/>
+    <production id="278" count="1"/>
+  </item>
+
+  <!-- Strengthened Long Bow -->
+  <item id="6">
+    <ingredient id="57" count="1400000"/>
+    <production id="279" count="1"/>
+  </item>
+
+  <!-- Light Crossbow -->
+  <item id="7">
+    <ingredient id="57" count="1800000"/>
+    <production id="280" count="1"/>
+  </item>
+
+
+</list>

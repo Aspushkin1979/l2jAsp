@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Great Axe -->
+  <item id="1">
+    <ingredient id="57" count="8680000"/>
+    <production id="300" count="1"/>
+  </item>
+
+  <!-- Lance -->
+  <item id="2">
+    <ingredient id="57" count="13100000"/>
+    <production id="97" count="1"/>
+  </item>
+
+
+</list>

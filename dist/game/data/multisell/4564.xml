@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- chaoskastle multisell-compiler -->
+
+<list>
+<!-- 1 -->
+<item id="1">
+<ingredient id="9400" count="100" enchant="0"/>
+<production id="622" count="1" enchant="0"/>
+</item>
+<!-- 2 -->
+<item id="2">
+<ingredient id="9400" count="100" enchant="0"/>
+<production id="623" count="1" enchant="0"/>
+</item>
+
+</list> 

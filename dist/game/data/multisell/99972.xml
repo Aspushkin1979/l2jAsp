@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- chaoskastle multisell-compiler -->
+
+<list>
+<!-- Human High Circlet -->
+<item id="1">
+<production id="9405" count="1"/>
+<ingredient id="9981" count="500"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Human Circlet -->
+<item id="2">
+<production id="9404" count="1"/>
+<ingredient id="9981" count="300"/>
+<ingredient id="9986" count="100"/>
+<ingredient id="9987" count="100"/>
+<ingredient id="9988" count="100"/>
+</item>
+<!-- Elf High Circlet -->
+<item id="3">
+<production id="9398" count="1"/>
+<ingredient id="9982" count="500"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Elf Circlet -->
+<item id="4">
+<production id="9397" count="1"/>
+<ingredient id="9982" count="300"/>
+<ingredient id="9986" count="100"/>
+<ingredient id="9987" count="100"/>
+<ingredient id="9988" count="100"/>
+</item>
+<!-- Darkelf High Circlet -->
+<item id="5">
+<production id="9394" count="1"/>
+<ingredient id="9983" count="500"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Darkelf Circlet -->
+<item id="6">
+<production id="9393" count="1"/>
+<ingredient id="9983" count="300"/>
+<ingredient id="9986" count="100"/>
+<ingredient id="9987" count="100"/>
+<ingredient id="9988" count="100"/>
+</item>
+<!-- Orc High Circlet -->
+<item id="7">
+<production id="9411" count="1"/>
+<ingredient id="9984" count="500"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Orc Circlet -->
+<item id="8">
+<production id="9410" count="1"/>
+<ingredient id="9984" count="300"/>
+<ingredient id="9986" count="100"/>
+<ingredient id="9987" count="100"/>
+<ingredient id="9988" count="100"/>
+</item>
+<!-- Dwarf High Circlet -->
+<item id="9">
+<production id="9396" count="1"/>
+<ingredient id="9985" count="500"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Dwarf Circlet -->
+<item id="10">
+<production id="9395" count="1"/>
+<ingredient id="9985" count="300"/>
+<ingredient id="9986" count="100"/>
+<ingredient id="9987" count="100"/>
+<ingredient id="9988" count="100"/>
+</item>
+</list>

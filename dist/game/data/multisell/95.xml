@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Mithril Tunic -->
+  <item id="1">
+    <ingredient id="57" count="224000"/>
+    <production id="437" count="1"/>
+  </item>
+
+  <!-- Mithril Stockings -->
+  <item id="2">
+    <ingredient id="57" count="140000"/>
+    <production id="470" count="1"/>
+  </item>
+
+  <!-- Elven Mithril Gloves -->
+  <item id="3">
+    <ingredient id="57" count="74700"/>
+    <production id="2450" count="1"/>
+  </item>
+
+  <!-- Tunic of Knowledge -->
+  <item id="4">
+    <ingredient id="57" count="152000"/>
+    <production id="436" count="1"/>
+  </item>
+
+  <!-- Stockings of Knowledge -->
+  <item id="5">
+    <ingredient id="57" count="95200"/>
+    <production id="469" count="1"/>
+  </item>
+
+  <!-- Gloves of Knowledge -->
+  <item id="6">
+    <ingredient id="57" count="24470"/>
+    <production id="2447" count="1"/>
+  </item>
+
+
+</list>

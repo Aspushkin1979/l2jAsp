@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Chimera. (C) 24.06.2007 ICQ#: 396-393-512  -->
+
+<!-- Armor Shop: Accessories -->
+
+<list>
+
+  <!-- Party Mask -->
+  <item id="1">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="5808" count="1" enchant="0"/>
+  </item>
+
+  <!-- Red Party Mask -->
+  <item id="2">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="6394" count="1" enchant="0"/>
+  </item>
+
+  <!-- Formal Wear -->
+  <item id="3">
+    <ingredient id="57" count="30000000" enchant="0"/>
+    <production id="6408" count="1" enchant="0"/>
+  </item>
+
+  <!-- Cat Ear -->
+  <item id="4">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="6843" count="1" enchant="0"/>
+  </item>
+
+  <!-- Lady's Hair Pin -->
+  <item id="5">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="6844" count="1" enchant="0"/>
+  </item>
+
+  <!-- Pirate's Eye Patch -->
+  <item id="6">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="6845" count="1" enchant="0"/>
+  </item>
+
+  <!-- Monocle -->
+  <item id="7">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="6846" count="1" enchant="0"/>
+  </item>
+
+  <!-- Hair Accessory for Events -->
+  <item id="8">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7059" count="1" enchant="0"/>
+  </item>
+
+<!-- Tateossian Hairband -->
+  <item id="9">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7060" count="1" enchant="0"/>
+  </item>
+
+  <!-- Raccoon Ears -->
+  <item id="10">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7680" count="1" enchant="0"/>
+  </item>
+
+  <!-- Outlaw's Eyepatch -->
+  <item id="11">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7681" count="1" enchant="0"/>
+  </item>
+
+  <!-- Maiden's Hairpin -->
+  <item id="12">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7682" count="1" enchant="0"/>
+  </item>
+
+  <!-- Rabbit Ears -->
+  <item id="13">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7683" count="1" enchant="0"/>
+  </item>
+
+  <!-- Forget-me-not Hairpin -->
+  <item id="14">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7695" count="1" enchant="0"/>
+  </item>
+
+  <!-- Daisy Hairpin -->
+  <item id="15">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7696" count="1" enchant="0"/>
+  </item>
+
+  <!-- Santa's Hat -->
+  <item id="16">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7836" count="1" enchant="0"/>
+  </item>
+
+  <!-- Sayha's White Mask -->
+  <item id="17">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7837" count="1" enchant="0"/>
+  </item>
+
+  <!-- Gold-line Mask - Black -->
+  <item id="18">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="7839" count="1" enchant="0"/>
+  </item>
+
+  <!-- Party Hat -->
+  <item id="19">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8184" count="1" enchant="0"/>
+  </item>
+
+  <!-- Feathered Hat -->
+  <item id="20">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8185" count="1" enchant="0"/>
+  </item>
+
+  <!-- Artisan's Goggles -->
+  <item id="21">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8186" count="1" enchant="0"/>
+  </item>
+
+  <!-- Demon Horns -->
+  <item id="22">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8187" count="1" enchant="0"/>
+  </item>
+
+  <!-- Little Angel Wing -->
+  <item id="23">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8188" count="1" enchant="0"/>
+  </item>
+
+  <!-- Fairy Antennae -->
+  <item id="24">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8189" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mask of Spirits -->
+  <item id="25">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8552" count="1" enchant="0"/>
+  </item>
+
+  <!-- Blue Party Hat -->
+  <item id="26">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8557" count="1" enchant="0"/>
+  </item>
+
+  <!-- Eva's Mark -->
+  <item id="27">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8558" count="1" enchant="0"/>
+  </item>
+
+  <!-- Diadem -->
+  <item id="28">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8559" count="1" enchant="0"/>
+  </item>
+
+  <!-- Teddy Bear Hat -->
+  <item id="29">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8560" count="1" enchant="0"/>
+  </item>
+
+  <!-- Piggy Hat -->
+  <item id="30">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8561" count="1" enchant="0"/>
+  </item>
+
+  <!-- Jester Hat -->
+  <item id="31">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8562" count="1" enchant="0"/>
+  </item>
+
+  <!-- Wizard's Hat -->
+  <item id="32">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8563" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dapper Cap -->
+  <item id="33">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8564" count="1" enchant="0"/>
+  </item>
+
+  <!-- Romantic Chapeau -->
+  <item id="34">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8565" count="1" enchant="0"/>
+  </item>
+
+  <!-- Iron Circlet -->
+  <item id="35">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8566" count="1" enchant="0"/>
+  </item>
+
+  <!-- Valakas Slayer Circlet -->
+  <item id="36">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8567" count="1" enchant="0"/>
+  </item>
+
+  <!-- Antharas Slayer Circlet -->
+  <item id="37">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8568" count="1" enchant="0"/>
+  </item>
+
+  <!-- Half Face Mask -->
+  <item id="38">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8569" count="1" enchant="0"/>
+  </item> 
+
+  <!-- Black Feather Mask -->
+  <item id="39">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8910" count="1" enchant="0"/>
+  </item>
+
+  <!-- Black Half-Mask -->
+  <item id="40">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8911" count="1" enchant="0"/>
+  </item>
+
+  <!-- Single Stem Flower -->
+  <item id="41">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8912" count="1" enchant="0"/>
+  </item>
+
+  <!-- Butterfly Hairpin -->
+  <item id="42">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8913" count="1" enchant="0"/>
+  </item>
+
+  <!-- Luxurious Gold Circlet -->
+  <item id="43">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8914" count="1" enchant="0"/>
+  </item>
+
+  <!-- Luxurious Silver Circlet -->
+  <item id="44">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8915" count="1" enchant="0"/>
+  </item>
+
+  <!-- Eye Patch -->
+  <item id="45">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8916" count="1" enchant="0"/>
+  </item>
+
+  <!-- Goddess Circlet -->
+  <item id="46">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8917" count="1" enchant="0"/>
+  </item>
+
+  <!-- Leather Cap -->
+  <item id="47">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8918" count="1" enchant="0"/>
+  </item>
+
+  <!-- Commodore's Hat - Event Use -->
+  <item id="48">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8919" count="1" enchant="0"/>
+  </item>
+
+  <!-- Angel Halo -->
+  <item id="49">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8920" count="1" enchant="0"/>
+  </item>
+
+  <!-- Demon Circlet -->
+  <item id="50">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8921" count="1" enchant="0"/>
+  </item>
+
+  <!-- Pirate Hat -->
+  <item id="51">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8922" count="1" enchant="0"/>
+  </item>
+
+  <!-- Scar -->
+  <item id="52">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8923" count="1" enchant="0"/>
+  </item>
+
+  <!-- Santa's Antlers -->
+  <item id="53">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8936" count="1" enchant="0"/>
+  </item>
+
+</list>

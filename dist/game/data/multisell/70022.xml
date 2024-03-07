@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  <!-- Spirit Ore -->
+  <item id="1">
+    <ingredient id="57" count="400"/>
+    <production id="3031" count="1"/>
+  </item>
+
+  <!-- Dual Weapons -->
+  <item id="2">
+    <ingredient id="57" count="600000"/>
+    <production id="2516" count="1"/>
+  </item>
+</list>

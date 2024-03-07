@@ -1,0 +1,29 @@
+
+checkRequirements:
+
+init:
+    [mkdir] Created dir: D:\La2\my_server\build\bin
+
+compile:
+    [javac] Compiling 1461 source files to D:\La2\my_server\build\bin
+
+jar:
+      [jar] Building jar: D:\La2\my_server\build\dist\libs\LoginServer.jar
+      [jar] Building jar: D:\La2\my_server\build\dist\libs\GameServer.jar
+      [jar] Building jar: D:\La2\my_server\build\dist\db_installer\Database_Installer_GS.jar
+      [jar] Building jar: D:\La2\my_server\build\dist\db_installer\Database_Installer_LS.jar
+
+adding-core:
+      [zip] Building zip: D:\La2\my_server\build\L2J_Asp_C6_Interlude.zip
+
+adding-datapack:
+      [zip] Updating zip: D:\La2\my_server\build\L2J_Asp_C6_Interlude.zip
+
+adding-readme:
+      [zip] Updating zip: D:\La2\my_server\build\L2J_Asp_C6_Interlude.zip
+
+cleanup:
+   [delete] Deleting directory D:\La2\my_server\build\dist
+
+BUILD SUCCESSFUL
+Total time: 2 minutes 58 seconds

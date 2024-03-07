@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  	<!-- Bone Arrow x1000-->
+	<item id="1">
+    		<ingredient id="57" count="30000"/>
+    		<production id="1341" count="1000"/>
+  	</item>
+
+	<!-- Arrow C x1000 -->
+	<item id="2">
+		<ingredient id="57" count="1500000"/>
+		<production id="1342" count="1000"/>
+	</item>
+
+	<!-- Arrow B x1000 -->
+	<item id="3">
+		<ingredient id="57" count="2000000"/>
+		<production id="1343" count="1000"/>
+	</item>
+
+	<!-- Arrow A x1000 -->
+	<item id="4">
+		<ingredient id="57" count="2500000"/>
+		<production id="1344" count="1000"/>
+	</item>
+
+	<!-- Arrow S x1000 -->
+	<item id="5">
+		<ingredient id="57" count="5000000"/>
+		<production id="1345" count="1000"/>
+	</item>
+
+	<!-- Cursed Bone -->
+	<item id="6">
+		<ingredient id="57" count="2500000"/>
+		<production id="2508" count="1000"/>
+	</item>
+
+</list>

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Stick of Faith -->
+  <item id="1">
+    <ingredient id="57" count="2290000"/>
+    <production id="193" count="1"/>
+  </item>
+
+  <!-- Battle Axe -->
+  <item id="2">
+    <ingredient id="57" count="2290000"/>
+    <production id="160" count="1"/>
+  </item>
+
+  <!-- Big Hammer -->
+  <item id="3">
+    <ingredient id="57" count="2290000"/>
+    <production id="89" count="1"/>
+  </item>
+
+  <!-- Silver Axe -->
+  <item id="4">
+    <ingredient id="57" count="2290000"/>
+    <production id="161" count="1"/>
+  </item>
+
+  <!-- Skull Graver -->
+  <item id="5">
+    <ingredient id="57" count="2290000"/>
+    <production id="173" count="1"/>
+  </item>
+
+  <!-- Crystal Staff -->
+  <item id="6">
+    <ingredient id="57" count="2290000"/>
+    <production id="192" count="1"/>
+  </item>
+
+  <!-- Heavy Doom Axe -->
+  <item id="7">
+    <ingredient id="57" count="2290000"/>
+    <production id="194" count="1"/>
+  </item>
+
+  <!-- Heavy Doom Hammer -->
+  <item id="8">
+    <ingredient id="57" count="2290000"/>
+    <production id="191" count="1"/>
+  </item>
+
+  <!-- Dwarven War Hammer -->
+  <item id="9">
+    <ingredient id="57" count="2870000"/>
+    <production id="2502" count="1"/>
+  </item>
+
+  <!-- Cursed Staff -->
+  <item id="10">
+    <ingredient id="57" count="2870000"/>
+    <production id="195" count="1"/>
+  </item>
+
+  <!-- Club of Nature -->
+  <item id="11">
+    <ingredient id="57" count="4300000"/>
+    <production id="201" count="1"/>
+  </item>
+
+  <!-- Mace of The Underworld -->
+  <item id="12">
+    <ingredient id="57" count="4300000"/>
+    <production id="202" count="1"/>
+  </item>
+
+  <!-- Nirvana Axe -->
+  <item id="13">
+    <ingredient id="57" count="4300000"/>
+    <production id="174" count="1"/>
+  </item>
+
+  <!-- Stick of Eternity -->
+  <item id="14">
+    <ingredient id="57" count="4300000"/>
+    <production id="196" count="1"/>
+  </item>
+
+  <!-- War Axe -->
+  <item id="15">
+    <ingredient id="57" count="4300000"/>
+    <production id="162" count="1"/>
+  </item>
+
+  <!-- Inferno Staff -->
+  <item id="16">
+    <ingredient id="57" count="4300000"/>
+    <production id="198" count="1"/>
+  </item>
+
+  <!-- Pa'agrian Hammer -->
+  <item id="17">
+    <ingredient id="57" count="4300000"/>
+    <production id="199" count="1"/>
+  </item>
+
+  <!-- Paradia Staff -->
+  <item id="18">
+    <ingredient id="57" count="4300000"/>
+    <production id="197" count="1"/>
+  </item>
+
+  <!-- Sage's Staff -->
+  <item id="19">
+    <ingredient id="57" count="4300000"/>
+    <production id="200" count="1"/>
+  </item>
+
+  <!-- Pa'agrian Axe -->
+  <item id="20">
+    <ingredient id="57" count="4780000"/>
+    <production id="203" count="1"/>
+  </item>
+
+  <!-- Yaksa Mace -->
+  <item id="21">
+    <ingredient id="57" count="6130000"/>
+    <production id="2503" count="1"/>
+  </item>
+
+  <!-- Deadman's Staff -->
+  <item id="22">
+    <ingredient id="57" count="6130000"/>
+    <production id="204" count="1"/>
+  </item>
+
+  <!-- Demon's Staff -->
+  <item id="23">
+    <ingredient id="57" count="6130000"/>
+    <production id="206" count="1"/>
+  </item>
+
+  <!-- Ghoul's Staff -->
+  <item id="24">
+    <ingredient id="57" count="6130000"/>
+    <production id="205" count="1"/>
+  </item>
+
+  <!-- Ecliptic Axe -->
+  <item id="25">
+    <ingredient id="57" count="6130000"/>
+    <production id="7891" count="1"/>
+  </item>
+
+  <!-- Karik Horn -->
+  <item id="26">
+    <ingredient id="57" count="6130000"/>
+    <production id="7898" count="1"/>
+  </item>
+
+  <!-- Dwarven Hammer -->
+  <item id="27">
+    <ingredient id="57" count="6130000"/>
+    <production id="7897" count="1"/>
+  </item>
+
+
+</list>

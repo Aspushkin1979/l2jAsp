@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- chaoskastle multisell-compiler -->
+
+<list>
+<!-- 100k adena -->
+<item id="1">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="57" count="100000" enchant="0"/>
+</item>
+<!-- 50 Proof of Catching a Fish -->
+<item id="2">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="7609" count="50" enchant="0"/>
+</item>
+<!-- 1 Dystany coin -->
+<item id="3">
+<ingredient id="9999" count="2" enchant="0"/>
+<production id="9997" count="1" enchant="0"/>
+</item> 
+<!-- 1 Epic coin -->
+<item id="4">
+<ingredient id="9999" count="2" enchant="0"/>
+<production id="9998" count="1" enchant="0"/>
+</item> 
+<!-- 10k Ancient adena -->
+<item id="5">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="5575" count="10000" enchant="0"/>
+</item>
+<!-- Crystal: A-Grade -->
+<item id="6">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="1461" count="7" enchant="0"/>
+</item>
+<!-- Crystal: S-Grade -->
+<item id="7">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="1462" count="4" enchant="0"/>
+</item>
+<!-- Dualsword Craft Stamp -->
+<item id="8">
+<ingredient id="9999" count="200" enchant="0"/>
+<production id="5126" count="1" enchant="0"/>
+</item>
+<!-- Destruction Tombstone -->
+<item id="9">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8176" count="1" enchant="0"/>
+</item>
+<!-- Dragon's Heart: A-Grade -->
+<item id="10">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8163" count="1" enchant="0"/>
+</item>
+<!-- Egg of Earth: A-Grade -->
+<item id="11">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8166" count="1" enchant="0"/>
+</item>
+<!-- False Nucleus of Life: A-Grade -->
+<item id="12">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8169" count="1" enchant="0"/>
+</item>
+<!-- Skull of the Dead: A-Grade -->
+<item id="13">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8160" count="1" enchant="0"/>
+</item>
+<!-- Cradle of Creation -->
+<item id="14">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8175" count="1" enchant="0"/>
+</item>
+<!-- Angel's Soul: A-Grade -->
+<item id="15">
+<ingredient id="9999" count="50" enchant="0"/>
+<production id="8172" count="1" enchant="0"/>
+</item>
+<!-- Deluxe Chest Key - Grade 4 -->
+<item id="16">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="6668" count="20" enchant="0"/>
+</item>
+<!-- Deluxe Chest Key - Grade 5 -->
+<item id="17">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="6669" count="12" enchant="0"/>
+</item>
+<!-- Deluxe Chest Key - Grade 6 -->
+<item id="18">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="6670" count="9" enchant="0"/>
+</item>
+<!-- Deluxe Chest Key - Grade 7 -->
+<item id="19">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="6671" count="6" enchant="0"/>
+</item>
+<!-- Deluxe Chest Key - Grade 8 -->
+<item id="20">
+<ingredient id="9999" count="1" enchant="0"/>
+<production id="6672" count="4" enchant="0"/>
+</item>
+<!-- High-Grade Life Stone: level 64 -->
+<item id="21">
+<ingredient id="9999" count="200" enchant="0"/>
+<production id="8749" count="1" enchant="0"/>
+</item>
+<!-- Top-Grade Life Stone: level 64 -->
+<item id="22">
+<ingredient id="9999" count="300" enchant="0"/>
+<production id="8759" count="1" enchant="0"/>
+</item>
+<!-- High-Grade Life Stone: level 67 -->
+<item id="23">
+<ingredient id="9999" count="300" enchant="0"/>
+<production id="8750" count="1" enchant="0"/>
+</item>
+<!-- Top-Grade Life Stone: level 67 -->
+<item id="24">
+<ingredient id="9999" count="400" enchant="0"/>
+<production id="8760" count="1" enchant="0"/>
+</item>
+<!-- High-Grade Life Stone: level 70 -->
+<item id="25">
+<ingredient id="9999" count="400" enchant="0"/>
+<production id="8751" count="1" enchant="0"/>
+</item>
+<!-- Top-Grade Life Stone: level 70 -->
+<item id="26">
+<ingredient id="9999" count="500" enchant="0"/>
+<production id="8761" count="1" enchant="0"/>
+</item>
+<!-- High-Grade Life Stone: level 76 -->
+<item id="27">
+<ingredient id="9999" count="500" enchant="0"/>
+<production id="8752" count="1" enchant="0"/>
+</item>
+<!-- Top-Grade Life Stone: level 76 -->
+<item id="28">
+<ingredient id="9999" count="600" enchant="0"/>
+<production id="8762" count="1" enchant="0"/>
+</item>
+</list>

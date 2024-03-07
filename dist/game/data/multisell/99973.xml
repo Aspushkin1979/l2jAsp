@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- chaoskastle multisell-compiler -->
+
+<list>
+<!-- Mask of Chaotic -->
+<item id="1">
+<production id="9409" count="1"/>
+<ingredient id="9981" count="100"/>
+<ingredient id="9982" count="100"/>
+<ingredient id="9983" count="100"/>
+<ingredient id="9984" count="100"/>
+<ingredient id="9985" count="100"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- High Phantom Mask -->
+<item id="2">
+<production id="9403" count="1"/>
+<ingredient id="9981" count="100"/>
+<ingredient id="9982" count="100"/>
+<ingredient id="9983" count="100"/>
+<ingredient id="9984" count="100"/>
+<ingredient id="9985" count="100"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Wizard Circlet -->
+<item id="3">
+<production id="9414" count="1"/>
+<ingredient id="9981" count="250"/>
+<ingredient id="9982" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Weapon Master Circlet -->
+<item id="4">
+<production id="9413" count="1"/>
+<ingredient id="9984" count="250"/>
+<ingredient id="9985" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Summoner Circlet -->
+<item id="5">
+<production id="9412" count="1"/>
+<ingredient id="9982" count="250"/>
+<ingredient id="9981" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Knight Circlet -->
+<item id="6">
+<production id="9408" count="1"/>
+<ingredient id="9984" count="250"/>
+<ingredient id="9985" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Healer Circlet -->
+<item id="7">
+<production id="9402" count="1"/>
+<ingredient id="9982" count="250"/>
+<ingredient id="9981" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Force Master Circlet -->
+<item id="8">
+<production id="9401" count="1"/>
+<ingredient id="9983" count="250"/>
+<ingredient id="9984" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Enchant Knight Circlet -->
+<item id="9">
+<production id="9400" count="1"/>
+<ingredient id="9981" count="250"/>
+<ingredient id="9985" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Enchanter Circlet -->
+<item id="10">
+<production id="9399" count="1"/>
+<ingredient id="9982" count="250"/>
+<ingredient id="9981" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Dagger Master Circlet -->
+<item id="11">
+<production id="9392" count="1"/>
+<ingredient id="9983" count="250"/>
+<ingredient id="9984" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+<!-- Bow Master Circlet -->
+<item id="12">
+<production id="9391" count="1"/>
+<ingredient id="9983" count="250"/>
+<ingredient id="9984" count="250"/>
+<ingredient id="9986" count="200"/>
+<ingredient id="9987" count="200"/>
+<ingredient id="9988" count="200"/>
+</item>
+</list>

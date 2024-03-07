@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Divine Helm -->
+  <item id="1">
+    <ingredient id="57" count="400000"/>
+    <production id="552" count="1"/>
+  </item>
+
+  <!-- Divine Tunic -->
+  <item id="2">
+    <ingredient id="57" count="1070000"/>
+    <production id="442" count="1"/>
+  </item>
+
+  <!-- Divine Stockings -->
+  <item id="3">
+    <ingredient id="57" count="671000"/>
+    <production id="473" count="1"/>
+  </item>
+
+  <!-- Divine Gloves -->
+  <item id="4">
+    <ingredient id="57" count="358000"/>
+    <production id="2463" count="1"/>
+  </item>
+
+  <!-- Divine Boots -->
+  <item id="5">
+    <ingredient id="57" count="358000"/>
+    <production id="603" count="1"/>
+  </item>
+
+  <!-- Divine Shield -->
+  <item id="6">
+    <ingredient id="57" count="300000"/>
+    <production id="674" count="1"/>
+  </item>
+
+  <!-- Karmian Tunic -->
+  <item id="7">
+    <ingredient id="57" count="379000"/>
+    <production id="439" count="1"/>
+  </item>
+
+  <!-- Karmian Stockings -->
+  <item id="8">
+    <ingredient id="57" count="237000"/>
+    <production id="471" count="1"/>
+  </item>
+
+  <!-- Karmian Gloves -->
+  <item id="9">
+    <ingredient id="57" count="126000"/>
+    <production id="2454" count="1"/>
+  </item>
+
+  <!-- Karmian Boots -->
+  <item id="10">
+    <ingredient id="57" count="126000"/>
+    <production id="2430" count="1"/>
+  </item>
+
+  <!-- Demon's Tunic -->
+  <item id="11">
+    <ingredient id="57" count="736000"/>
+    <production id="441" count="1"/>
+  </item>
+
+  <!-- Demon's Stockings -->
+  <item id="12">
+    <ingredient id="57" count="460000"/>
+    <production id="472" count="1"/>
+  </item>
+
+  <!-- Demon's Gloves -->
+  <item id="13">
+    <ingredient id="57" count="245000"/>
+    <production id="2459" count="1"/>
+  </item>
+
+  <!-- Demon's Boots -->
+  <item id="14">
+    <ingredient id="57" count="245000"/>
+    <production id="2435" count="1"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Cursed Maingauche -->
+  <item id="1">
+    <ingredient id="57" count="1700000"/>
+    <production id="1660" count="1"/>
+  </item>
+
+  <!-- Tarbar -->
+  <item id="2">
+    <ingredient id="57" count="1700000"/>
+    <production id="158" count="1"/>
+  </item>
+
+  <!-- Heavy Sword -->
+  <item id="3">
+    <ingredient id="57" count="1700000"/>
+    <production id="5285" count="1"/>
+  </item>
+
+  <!-- Knight's Sword*Elven Long Sword -->
+  <item id="4">
+    <ingredient id="57" count="1700000"/>
+    <production id="2550" count="1"/>
+  </item>
+
+  <!-- Strengthened Long Bow -->
+  <item id="5">
+    <ingredient id="57" count="1700000"/>
+    <production id="279" count="1"/>
+  </item>
+
+  <!-- Scallop Jamadhr -->
+  <item id="6">
+    <ingredient id="57" count="1700000"/>
+    <production id="262" count="1"/>
+  </item>
+
+  <!-- Staff of Life -->
+  <item id="7">
+    <ingredient id="57" count="1700000"/>
+    <production id="189" count="1"/>
+  </item>
+
+</list>

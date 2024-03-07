@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+
+  <item id="1">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="6036" count="1" enchant="0"/>
+  </item>
+  
+  <item id="2">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="1375" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Greater Haste Potion -->
+  <item id="3">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="1374" count="1" enchant="0"/>
+  </item>
+  
+  <item id="4">
+    <ingredient id="57" count="999" enchant="0"/>
+    <production id="1539" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Greater CP Potion -->
+  <item id="5">
+    <ingredient id="57" count="6000" enchant="0"/>
+    <production id="5592" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mana Potion -->
+  <item id="6">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="728" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mana Potion -->
+  <item id="7">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="8622" count="1" enchant="0"/>
+  </item>
+
+  <item id="8">
+    <ingredient id="57" count="36000" enchant="0"/>
+    <production id="8623" count="1" enchant="0"/>
+  </item>
+  
+  <item id="9">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8624" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Elixir of Life -->
+  <item id="10">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8625" count="1" enchant="0"/>
+  </item>
+  
+  <item id="11">
+    <ingredient id="57" count="99900" enchant="0"/>
+    <production id="8626" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Elixir of Life -->
+  <item id="12">
+    <ingredient id="57" count="60000" enchant="0"/>
+    <production id="8627" count="1" enchant="0"/>
+  </item>
+
+  <!-- Elixir of Mental Strength -->
+  <item id="13">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8628" count="1" enchant="0"/>
+  </item>
+
+  <item id="14">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8629" count="1" enchant="0"/>
+  </item>
+  
+  <item id="15">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8630" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Elixir of Mental Strength -->
+  <item id="16">
+    <ingredient id="57" count="360000" enchant="0"/>
+    <production id="8631" count="1" enchant="0"/>
+  </item>
+  
+  <item id="17">
+    <ingredient id="57" count="9990" enchant="0"/>
+    <production id="8632" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Elixir of Mental Strength -->
+  <item id="18">
+    <ingredient id="57" count="60000" enchant="0"/>
+    <production id="8633" count="1" enchant="0"/>
+  </item>
+ 
+</list>

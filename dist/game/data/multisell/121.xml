@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+
+<list>
+
+  <!-- [Draconic Bow Shaft] for [Adena] -->
+  <item id="1">
+    <ingredient id="57" count="6000000"/>
+    <production id="7579" count="1"/>
+  </item>
+
+  <!-- [Arcana Mace Head] for [Adena] -->
+  <item id="2">
+    <ingredient id="57" count="6000000"/>
+    <production id="6697" count="1"/>
+  </item>
+
+  <!-- [Heavens Divider Edge] for [Adena] -->
+  <item id="3">
+    <ingredient id="57" count="6000000"/>
+    <production id="6696" count="1"/>
+  </item>
+
+  <!-- [Demon Splinter Blade] for [Adena] -->
+  <item id="4">
+    <ingredient id="57" count="6000000"/>
+    <production id="6695" count="1"/>
+  </item>
+
+  <!-- [Saint Spear Blade] for [Adena] -->
+  <item id="5">
+    <ingredient id="57" count="6000000"/>
+    <production id="6694" count="1"/>
+  </item>
+
+  <!-- [Dragon Hunter Axe Blade] for [Adena] -->
+  <item id="6">
+    <ingredient id="57" count="6000000"/>
+    <production id="6693" count="1"/>
+  </item>
+
+  <!-- [Shining Bow Shaft] for [Adena] -->
+  <item id="7">
+    <ingredient id="57" count="6000000"/>
+    <production id="6692" count="1"/>
+  </item>
+
+  <!-- [Angel Slayer Blade] for [Adena] -->
+  <item id="8">
+    <ingredient id="57" count="6000000"/>
+    <production id="6691" count="1"/>
+  </item>
+
+  <!-- [Imperial Staff Head] for [Adena] -->
+  <item id="9">
+    <ingredient id="57" count="6000000"/>
+    <production id="6690" count="1"/>
+  </item>
+ 
+  <!-- [Basalt Battlehammer Head] for [Adena] -->
+  <item id="10">
+    <ingredient id="57" count="6000000"/>
+    <production id="6689" count="1"/>
+  </item>
+
+  <!-- [Forgotten Blade Edge] for [Adena] -->
+  <item id="11">
+    <ingredient id="57" count="6000000"/>
+    <production id="6688" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Breastplate Part] for [Adena] -->
+  <item id="12">
+    <ingredient id="57" count="3000000"/>
+    <production id="6701" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Gaiters Pattern] for [Adena] -->
+  <item id="13">
+    <ingredient id="57" count="3000000"/>
+    <production id="6702" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Gauntlet Design] for [Adena] -->
+  <item id="14">
+    <ingredient id="57" count="3000000"/>
+    <production id="6703" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Boots Design] for [Adena] -->
+  <item id="15">
+    <ingredient id="57" count="3000000"/>
+    <production id="6704" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Shield Part] for [Adena] -->
+  <item id="16">
+    <ingredient id="57" count="3000000"/>
+    <production id="6705" count="1"/>
+  </item>
+
+  <!-- [Sealed Imperial Crusader Helmet Pattern] for [Adena] -->
+  <item id="17">
+    <ingredient id="57" count="3000000"/>
+    <production id="6706" count="1"/>
+  </item>
+
+  <!-- [Sealed Draconic Leather Armor Part] for [Adena] -->
+  <item id="18">
+    <ingredient id="57" count="3000000"/>
+    <production id="6707" count="1"/>
+  </item>
+
+  <!-- [Sealed Draconic Leather Gloves Fabric ] for [Adena] -->
+  <item id="19">
+    <ingredient id="57" count="3000000"/>
+    <production id="6708" count="1"/>
+  </item>
+
+  <!-- [Sealed Draconic Leather Boots Design] for [Adena] -->
+  <item id="20">
+    <ingredient id="57" count="3000000"/>
+    <production id="6709" count="1"/>
+  </item>
+
+  <!-- [Sealed Draconic Leather Helmet Patern] for [Adena] -->
+  <item id="21">
+    <ingredient id="57" count="3000000"/>
+    <production id="6710" count="1"/>
+  </item>
+
+  <!-- [Sealed Major Arcana Robe Part] for [Adena] -->
+  <item id="21">
+    <ingredient id="57" count="3000000"/>
+    <production id="6711" count="1"/>
+  </item>
+
+  <!-- [Sealed Major Arcana Gloves Fabric] for [Adena] -->
+  <item id="23">
+    <ingredient id="57" count="3000000"/>
+    <production id="6712" count="1"/>
+  </item>
+
+  <!-- [Sealed Major Arcana Boots Design] for [Adena] -->
+  <item id="24">
+    <ingredient id="57" count="3000000"/>
+    <production id="6713" count="1"/>
+  </item>
+
+  <!-- [Sealed Major Arcana Circlet Pattern] for [Adena] -->
+  <item id="25">
+    <ingredient id="57" count="3000000"/>
+    <production id="6714" count="1"/>
+  </item>
+ 
+  <!-- [Sealed Tateossian Earring Part] for [Adena] -->
+  <item id="26">
+    <ingredient id="57" count="3000000"/>
+    <production id="6698" count="1"/>
+  </item>
+
+  <!-- [Sealed Tateossian Ring Gem] for [Adena] -->
+  <item id="27">
+    <ingredient id="57" count="3000000"/>
+    <production id="6699" count="1"/>
+  </item>
+
+  <!-- [Sealed Tateossian Ring Wire] for [Adena] -->
+  <item id="28">
+    <ingredient id="57" count="3000000"/>
+    <production id="6700" count="1"/>
+  </item>
+
+  
+
+  </list>
+

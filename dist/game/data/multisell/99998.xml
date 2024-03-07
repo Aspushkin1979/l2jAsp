@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created with GMshop maker v1.2 by MaJIa9I -->
+
+<!-- New multisell shop -->
+
+<list>
+
+  <item id="1">
+    <ingredient id="4037" count="250"/>
+    <production id="9600" count="1"/>
+  </item>
+  <item id="2">
+    <ingredient id="4037" count="250"/>
+    <production id="9601" count="1"/>
+  </item>
+  <item id="3">
+    <ingredient id="4037" count="250"/>
+    <production id="9602" count="1"/>
+  </item>
+  <item id="4">
+    <ingredient id="4037" count="250"/>
+    <production id="9603" count="1"/>
+  </item>
+  <item id="5">
+    <ingredient id="4037" count="250"/>
+    <production id="9604" count="1"/>
+  </item>
+  <item id="6">
+    <ingredient id="4037" count="250"/>
+    <production id="9605" count="1"/>
+  </item>
+  <item id="7">
+    <ingredient id="4037" count="250"/>
+    <production id="9606" count="1"/>
+  </item> 
+ <item id="8">
+    <ingredient id="4037" count="250"/>
+    <production id="9607" count="1"/>
+  </item> 
+ <item id="9">
+    <ingredient id="4037" count="250"/>
+    <production id="9608" count="1"/>
+  </item> 
+ <item id="10">
+    <ingredient id="4037" count="250"/>
+    <production id="9609" count="1"/>
+  </item>
+ <item id="11">
+    <ingredient id="4037" count="250"/>
+    <production id="9610" count="1"/>
+  </item>
+<item id="12">
+    <ingredient id="4037" count="250"/>
+    <production id="9611" count="1"/>
+  </item>
+<item id="13">
+    <ingredient id="4037" count="250"/>
+    <production id="9612" count="1"/>
+  </item>
+<item id="14">
+    <ingredient id="9143" count="300"/>
+    <production id="14000" count="1"/>
+  </item>
+
+</list>

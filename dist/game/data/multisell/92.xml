@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Avadon Circlet -->
+  <item id="1">
+    <ingredient id="57" count="778000"/>
+    <production id="2415" count="1"/>
+  </item>
+
+  <!-- Avadon Leather Armor -->
+  <item id="2">
+    <ingredient id="57" count="2280000"/>
+    <production id="2390" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Light Armor -->
+  <item id="3">
+    <ingredient id="57" count="519000"/>
+    <production id="5715" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Light Armor -->
+  <item id="4">
+    <ingredient id="57" count="519000"/>
+    <production id="5731" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Helmet -->
+  <item id="5">
+    <ingredient id="57" count="1210000"/>
+    <production id="2416" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Leather Armor -->
+  <item id="6">
+    <ingredient id="57" count="3530000"/>
+    <production id="2391" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Light Armor -->
+  <item id="7">
+    <ingredient id="57" count="804000"/>
+    <production id="5719" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Light Armor -->
+  <item id="8">
+    <ingredient id="57" count="804000"/>
+    <production id="5735" count="1"/>
+  </item>
+
+  <!-- Zubei's Helmet -->
+  <item id="9">
+    <ingredient id="57" count="778000"/>
+    <production id="503" count="1"/>
+  </item>
+
+  <!-- Zubei's Leather Shirt -->
+  <item id="10">
+    <ingredient id="57" count="1560000"/>
+    <production id="2384" count="1"/>
+  </item>
+
+  <!-- Zubei's Leather Gaiters -->
+  <item id="11">
+    <ingredient id="57" count="973000"/>
+    <production id="2388" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Light Armor -->
+  <item id="12">
+    <ingredient id="57" count="519000"/>
+    <production id="5711" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Light Armor -->
+  <item id="13">
+    <ingredient id="57" count="519000"/>
+    <production id="5727" count="1"/>
+  </item>
+
+  <!-- Doom Helmet -->
+  <item id="14">
+    <ingredient id="57" count="1210000"/>
+    <production id="2417" count="1"/>
+  </item>
+
+  <!-- Leather Armor of Doom -->
+  <item id="15">
+    <ingredient id="57" count="3530000"/>
+    <production id="2392" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Light Armor -->
+  <item id="16">
+    <ingredient id="57" count="804000"/>
+    <production id="5723" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Light Armor -->
+  <item id="17">
+    <ingredient id="57" count="804000"/>
+    <production id="5739" count="1"/>
+  </item>
+
+
+</list>

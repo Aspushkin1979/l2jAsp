@@ -1,0 +1,158 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Soulshot: D-grade -->
+  <item id="1">
+    <ingredient id="57" count="10"/>  <!-- Adena -->
+    <production id="1463" count="1"/>  <!-- Soulshot: D-grade -->
+  </item>
+
+  <!-- Blessed Spiritshot: D-Grade -->
+  <item id="2">
+    <ingredient id="57" count="90"/>  <!-- Adena -->
+    <production id="3948" count="1"/>  <!-- Blessed Spiritshot: D-Grade -->
+  </item>
+
+  <!-- Bone Arrow -->
+  <item id="3">
+    <ingredient id="57" count="3"/>  <!-- Adena -->
+    <production id="1341" count="1"/>  <!-- Bone Arrow -->
+  </item>
+
+  <!-- Crystal: D-Grade -->
+  <item id="4">
+    <ingredient id="57" count="650"/>  <!-- Adena -->
+    <production id="1458" count="1"/>  <!-- Crystal: D-Grade -->
+  </item>
+
+  <!-- Gemstone D -->
+  <item id="5">
+    <ingredient id="57" count="5000"/>  <!-- Adena -->
+    <production id="2130" count="1"/>  <!-- Gemstone D -->
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="6">
+    <ingredient id="57" count="500"/>  <!-- Adena -->
+    <production id="1785" count="1"/>  <!-- Soul Ore -->
+  </item>
+
+  <!-- Soulshot: C-grade -->
+  <item id="7">
+    <ingredient id="57" count="15"/>  <!-- Adena -->
+    <production id="1464" count="1"/>  <!-- Soulshot: C-grade -->
+  </item>
+
+  <!-- Blessed Spiritshot: C-Grade -->
+  <item id="8">
+    <ingredient id="57" count="150"/>  <!-- Adena -->
+    <production id="3949" count="1"/>  <!-- Blessed Spiritshot: C-Grade -->
+  </item>
+
+  <!-- Fine Steel Arrow -->
+  <item id="9">
+    <ingredient id="57" count="5"/>  <!-- Adena -->
+    <production id="1342" count="1"/>  <!-- Fine Steel Arrow -->
+  </item>
+
+  <!-- Crystal: C-Grade -->
+  <item id="10">
+    <ingredient id="57" count="3000"/>  <!-- Adena -->
+    <production id="1459" count="1"/>  <!-- Crystal: C-Grade -->
+  </item>
+
+  <!-- Gemstone C -->
+  <item id="11">
+    <ingredient id="57" count="10000"/>  <!-- Adena -->
+    <production id="2131" count="1"/>  <!-- Gemstone C -->
+  </item>
+
+  <!-- Spirit Ore -->
+  <item id="12">
+    <ingredient id="57" count="500"/>  <!-- Adena -->
+    <production id="3031" count="1"/>  <!-- Spirit Ore -->
+  </item>
+
+  <!-- Soulshot: B-grade -->
+  <item id="13">
+    <ingredient id="57" count="50"/>  <!-- Adena -->
+    <production id="1465" count="1"/>  <!-- Soulshot: B-grade -->
+  </item>
+
+  <!-- Blessed Spiritshot: B-Grade -->
+  <item id="14">
+    <ingredient id="57" count="245"/>  <!-- Adena -->
+    <production id="3950" count="1"/>  <!-- Blessed Spiritshot: B-Grade -->
+  </item>
+
+  <!-- Silver Arrow -->
+  <item id="15">
+    <ingredient id="57" count="7"/>  <!-- Adena -->
+    <production id="1343" count="1"/>  <!-- Silver Arrow -->
+  </item>
+
+  <!-- Crystal: B-Grade -->
+  <item id="16">
+    <ingredient id="57" count="9000"/>  <!-- Adena -->
+    <production id="1460" count="1"/>  <!-- Crystal: B-Grade -->
+  </item>
+
+  <!-- Cursed Bone -->
+  <item id="17">
+    <ingredient id="57" count="500"/>  <!-- Adena -->
+    <production id="2508" count="1"/>  <!-- Cursed Bone -->
+  </item>
+
+  <!-- Soulshot: A-grade -->
+  <item id="18">
+    <ingredient id="57" count="80"/>  <!-- Adena -->
+    <production id="1466" count="1"/>  <!-- Soulshot: A-grade -->
+  </item>
+
+  <!-- Blessed Spiritshot: A-Grade -->
+  <item id="19">
+    <ingredient id="57" count="290"/>  <!-- Adena -->
+    <production id="3951" count="1"/>  <!-- Blessed Spiritshot: A-Grade -->
+  </item>
+
+  <!-- Mithril Arrow -->
+  <item id="20">
+    <ingredient id="57" count="8"/>  <!-- Adena -->
+    <production id="1344" count="1"/>  <!-- Mithril Arrow -->
+  </item>
+
+  <!-- Crystal: A-Grade -->
+  <item id="21">
+    <ingredient id="57" count="15000"/>  <!-- Adena -->
+    <production id="1461" count="1"/>  <!-- Crystal: A-Grade -->
+  </item>
+
+  <!-- Soulshot: S-grade -->
+  <item id="22">
+    <ingredient id="57" count="100"/>  <!-- Adena -->
+    <production id="1467" count="1"/>  <!-- Soulshot: S-grade -->
+  </item>
+
+  <!-- Blessed Spiritshot: S Grade -->
+  <item id="23">
+    <ingredient id="57" count="350"/>  <!-- Adena -->
+    <production id="3952" count="1"/>  <!-- Blessed Spiritshot: S Grade -->
+  </item>
+
+  <!-- Shining Arrow -->
+  <item id="24">
+    <ingredient id="57" count="10"/>  <!-- Adena -->
+    <production id="1345" count="1"/>  <!-- Shining Arrow -->
+  </item>
+
+  <!-- Crystal: S Grade -->
+  <item id="25">
+    <ingredient id="57" count="25000"/>  <!-- Adena -->
+    <production id="1462" count="1"/>  <!-- Crystal: S Grade -->
+  </item>
+
+</list>

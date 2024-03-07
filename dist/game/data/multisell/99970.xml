@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- chaoskastle multisell-compiler -->
+
+<list>
+<!-- Dirty Soul -->
+<item id="1">
+<production id="9981" count="1"/>
+<ingredient id="9974" count="1"/>
+<ingredient id="9976" count="1"/>
+<ingredient id="9977" count="1"/>
+<ingredient id="9975" count="1"/>
+<ingredient id="9971" count="1"/>
+</item>
+<!-- Water Soul -->
+<item id="2">
+<production id="9982" count="1"/>
+<ingredient id="9974" count="1"/>
+<ingredient id="9973" count="1"/>
+<ingredient id="9977" count="1"/>
+<ingredient id="9972" count="1"/>
+<ingredient id="9978" count="1"/>
+</item>
+<!-- Wind Soul -->
+<item id="3">
+<production id="9983" count="1"/>
+<ingredient id="9974" count="1"/>
+<ingredient id="9976" count="1"/>
+<ingredient id="9977" count="1"/>
+<ingredient id="9975" count="1"/>
+<ingredient id="9973" count="1"/>
+</item>
+<!-- Fire Soul -->
+<item id="4">
+<production id="9984" count="1"/>
+<ingredient id="9978" count="1"/>
+<ingredient id="9976" count="1"/>
+<ingredient id="9975" count="1"/>
+<ingredient id="9971" count="1"/>
+<ingredient id="9973" count="1"/>
+</item>
+<!-- Earth Soul -->
+<item id="5">
+<production id="9985" count="1"/>
+<ingredient id="9978" count="1"/>
+<ingredient id="9976" count="1"/>
+<ingredient id="9974" count="1"/>
+<ingredient id="9973" count="1"/>
+<ingredient id="9972" count="1"/>
+</item>
+<!-- God Ore -->
+<item id="6">
+<production id="9986" count="1"/>
+<ingredient id="9978" count="1"/>
+<ingredient id="9976" count="1"/>
+<ingredient id="9977" count="1"/>
+<ingredient id="9971" count="1"/>
+<ingredient id="9972" count="1"/>
+</item>
+<!-- Moon Thread -->
+<item id="7">
+<production id="9987" count="1"/>
+<ingredient id="9978" count="1"/>
+<ingredient id="9974" count="1"/>
+<ingredient id="9975" count="1"/>
+<ingredient id="9971" count="1"/>
+<ingredient id="9972" count="1"/>
+</item>
+<!-- Aulakiria Skin -->
+<item id="8">
+<production id="9988" count="1"/>
+<ingredient id="9977" count="1"/>
+<ingredient id="9975" count="1"/>
+<ingredient id="9973" count="1"/>
+<ingredient id="9971" count="1"/>
+<ingredient id="9972" count="1"/>
+</item>
+</list>

@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Coin of Luck for Adena -->
+  <item id="1">
+    <ingredient id="57" count="50000000"/>
+    <production id="4037" count="1"/>
+  </item>
+
+  <!-- Epic Diamond Adena for Adena -->
+  <item id="2">
+    <ingredient id="57" count="75000000"/>
+    <production id="4366" count="1"/>
+  </item>
+
+  <!-- Adena  for Coin of Luck -->
+  <item id="3">
+    <ingredient id="4037" count="1"/>
+    <production id="57" count="40000000"/>
+  </item>
+
+  <!-- Adena of Epic Diamond Adena  -->
+  <item id="4">
+    <ingredient id="4366" count="1"/>
+    <production id="57" count="50000000"/>
+  </item>
+
+
+</list>

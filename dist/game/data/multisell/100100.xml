@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- Grey Team GM Shop MAX 5.1 -->
+
+<list>
+
+<!-- TOP-Grade Life Stouns -->
+<item id="1">
+    <ingredient id="57" count="1000000" enchant="0"/>
+    <production id="8753" count="1" enchant="0"/>
+  </item>
+
+  <item id="2">
+    <ingredient id="57" count="1200000" enchant="0"/>
+    <production id="8754" count="1" enchant="0"/>
+  </item>
+
+  <item id="3">
+    <ingredient id="57" count="1440000" enchant="0"/>
+    <production id="8755" count="1" enchant="0"/>
+  </item>
+
+  <item id="4">
+    <ingredient id="57" count="1728000" enchant="0"/>
+    <production id="8756" count="1" enchant="0"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="57" count="2000000" enchant="0"/>
+    <production id="8757" count="1" enchant="0"/>
+  </item>
+
+  <item id="6">
+    <ingredient id="57" count="2400000" enchant="0"/>
+    <production id="8758" count="1" enchant="0"/>
+  </item>
+
+  <item id="7">
+    <ingredient id="57" count="3000000" enchant="0"/>
+    <production id="8759" count="1" enchant="0"/>
+  </item>
+
+  <item id="8">
+    <ingredient id="57" count="3600000" enchant="0"/>
+    <production id="8760" count="1" enchant="0"/>
+  </item>
+
+  <item id="9">
+    <ingredient id="57" count="4320000" enchant="0"/>
+    <production id="8761" count="1" enchant="0"/>
+  </item>
+
+  <item id="10">
+    <ingredient id="57" count="4800000" enchant="0"/>
+    <production id="8762" count="1" enchant="0"/>
+  </item>
+  
+  <item id="11">
+    <ingredient id="57" count="3000" enchant="0"/>
+    <production id="2130" count="1" enchant="0"/>
+  </item>
+  
+  <item id="12">
+    <ingredient id="57" count="5000" enchant="0"/>
+    <production id="2131" count="1" enchant="0"/>
+  </item>
+</list>

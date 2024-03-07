@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Doom Boots - Heavy Armor -->
+  <item id="1">
+    <ingredient id="57" count="5000000"/>
+    <production id="5738" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Light Armor -->
+  <item id="2">
+    <ingredient id="57" count="5000000"/>
+    <production id="5739" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Robe -->
+  <item id="3">
+    <ingredient id="57" count="5000000"/>
+    <production id="5740" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Heavy Armor -->
+  <item id="4">
+    <ingredient id="57" count="5000000"/>
+    <production id="5722" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Light Armor -->
+  <item id="5">
+    <ingredient id="57" count="5000000"/>
+    <production id="5723" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Robe -->
+  <item id="6">
+    <ingredient id="57" count="5000000"/>
+    <production id="5724" count="1"/>
+  </item>
+
+  <!-- Doom Helmet -->
+  <item id="7">
+    <ingredient id="57" count="10000000"/>
+    <production id="2417" count="1"/>
+  </item>
+
+  <!-- Doom Plate Armor -->
+  <item id="8">
+    <ingredient id="57" count="10000000"/>
+    <production id="2381" count="1"/>
+  </item>
+
+  <!-- Doom Shield -->
+  <item id="9">
+    <ingredient id="57" count="10000000"/>
+    <production id="110" count="1"/>
+  </item>
+
+  <!-- Leather Armor of Doom -->
+  <item id="10">
+    <ingredient id="57" count="10000000"/>
+    <production id="2392" count="1"/>
+  </item>
+
+  <!-- Tunic of Doom -->
+  <item id="11">
+    <ingredient id="57" count="10000000"/>
+    <production id="2399" count="1"/>
+  </item>
+
+
+</list>

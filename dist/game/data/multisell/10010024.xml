@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- Grey Team GM Shop MAX 5.1 -->
+
+<list>
+
+  <item id="1">
+    <ingredient id="57" count="7" enchant="0"/>
+    <production id="1835" count="1" enchant="0"/>
+  </item>
+  
+  <item id="2">
+    <ingredient id="57" count="17" enchant="0"/>
+    <production id="1463" count="1" enchant="0"/>
+  </item>
+  
+  <item id="3">
+    <ingredient id="57" count="25" enchant="0"/>
+    <production id="1464" count="1" enchant="0"/>
+  </item>
+  
+  <item id="4">
+    <ingredient id="57" count="64" enchant="0"/>
+    <production id="1465" count="1" enchant="0"/>
+  </item>
+  
+  <item id="5">
+    <ingredient id="57" count="100" enchant="0"/>
+    <production id="1466" count="1" enchant="0"/>
+  </item>
+
+  <item id="6">
+    <ingredient id="57" count="129" enchant="0"/>
+    <production id="1467" count="1" enchant="0"/>
+  </item>  
+
+  <item id="7">
+    <ingredient id="57" count="35" enchant="0"/>
+    <production id="3947" count="1" enchant="0"/>
+  </item>  
+
+  <item id="8">
+    <ingredient id="57" count="65" enchant="0"/>
+    <production id="3948" count="1" enchant="0"/>
+  </item>  
+
+  <item id="9">
+    <ingredient id="57" count="125" enchant="0"/>
+    <production id="3949" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="10">
+    <ingredient id="57" count="280" enchant="0"/>
+    <production id="3950" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="11">
+    <ingredient id="57" count="350" enchant="0"/>
+    <production id="3951" count="1" enchant="0"/>
+  </item> 
+  
+  <item id="12">
+    <ingredient id="57" count="449" enchant="0"/>
+    <production id="3952" count="1" enchant="0"/>
+  </item> 
+
+  <item id="13">
+    <ingredient id="57" count="20" enchant="0"/>
+    <production id="6645" count="1" enchant="0"/>
+  </item>
+
+  <item id="14">
+    <ingredient id="57" count="40" enchant="0"/>
+    <production id="6646" count="1" enchant="0"/>
+  </item>
+
+  <item id="15">
+    <ingredient id="57" count="100" enchant="0"/>
+    <production id="6647" count="1" enchant="0"/>
+  </item>
+
+<!-- Spiritshot: D-grade -->
+  <item id="16">
+    <ingredient id="57" count="30" enchant="0"/>
+    <production id="2510" count="1" enchant="0"/>
+  </item>
+
+<!-- Spiritshot: C-grade -->
+  <item id="17">
+    <ingredient id="57" count="43" enchant="0"/>
+    <production id="2511" count="1" enchant="0"/>
+  </item>
+
+<!-- Spiritshot: B-grade -->
+  <item id="18">
+    <ingredient id="57" count="125" enchant="0"/>
+    <production id="2512" count="1" enchant="0"/>
+  </item>
+
+<!-- Spiritshot: A-grade -->
+  <item id="19">
+    <ingredient id="57" count="152" enchant="0"/>
+    <production id="2513" count="1" enchant="0"/>
+  </item>
+
+<!-- Spiritshot: S-grade -->
+  <item id="20">
+    <ingredient id="57" count="183" enchant="0"/>
+    <production id="2514" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows NG -->
+  <item id="21">
+    <ingredient id="57" count="10" enchant="0"/>
+    <production id="17" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows D -->
+  <item id="22">
+    <ingredient id="57" count="15" enchant="0"/>
+    <production id="1341" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows c -->
+  <item id="23">
+    <ingredient id="57" count="21" enchant="0"/>
+    <production id="1342" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows b -->
+  <item id="24">
+    <ingredient id="57" count="28" enchant="0"/>
+    <production id="1343" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows a -->
+  <item id="25">
+    <ingredient id="57" count="36" enchant="0"/>
+    <production id="1344" count="1" enchant="0"/>
+  </item>
+
+  <!-- arrows s -->
+  <item id="26">
+    <ingredient id="57" count="50" enchant="0"/>
+    <production id="1345" count="1" enchant="0"/>
+  </item>
+  
+</list>

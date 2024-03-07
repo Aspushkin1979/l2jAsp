@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Yablonski's Hammer -->
+  <item id="1">
+    <ingredient id="57" count="48800000"/>
+    <production id="165" count="1"/>
+  </item>
+
+  <!-- The Staff -->
+  <item id="2">
+    <ingredient id="57" count="48800000"/>
+    <production id="214" count="1"/>
+  </item>
+
+  <!-- Arcana Mace -->
+  <item id="3">
+    <ingredient id="57" count="48800000"/>
+    <production id="6579" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer -->
+  <item id="4">
+    <ingredient id="57" count="48800000"/>
+    <production id="6365" count="1"/>
+  </item>
+
+  <!-- Imperial Staff -->
+  <item id="5">
+    <ingredient id="57" count="48800000"/>
+    <production id="6366" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe -->
+  <item id="6">
+    <ingredient id="57" count="48800000"/>
+    <production id="6369" count="1"/>
+  </item>
+
+
+</list>

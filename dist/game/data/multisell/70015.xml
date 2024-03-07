@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+	<!-- Soulshot D x1000 -->
+	<item id="1">
+		<ingredient id="57" count="150000"/>
+		<production id="1463" count="1000"/>
+	</item>
+
+	<!-- Soulshot C x1000 -->
+	<item id="2">
+		<ingredient id="57" count="150000"/>
+		<production id="1464" count="1000"/>
+	</item>
+
+	<!-- Soulshot B x1000 -->
+	<item id="3">
+		<ingredient id="57" count="200000"/>
+		<production id="1465" count="1000"/>
+	</item>
+
+	<!-- Soulshot A x1000 -->
+	<item id="4">
+		<ingredient id="57" count="250000"/>
+		<production id="1466" count="1000"/>
+	</item>
+
+	<!-- Solshot S x1000 -->
+	<item id="5">
+		<ingredient id="57" count="500000"/>
+		<production id="1467" count="1000"/>
+	</item>
+
+	<!-- BSpirirtshot D x1000 -->
+	<item id="6">
+		<ingredient id="57" count="300000"/>
+		<production id="3948" count="1000"/>
+	</item>
+
+	<!-- BSpirirtshot C x1000 -->
+	<item id="7">
+		<ingredient id="57" count="300000"/>
+		<production id="3949" count="1000"/>
+	</item>
+
+	<!-- BSpiritshot B x1000 -->
+	<item id="8">
+		<ingredient id="57" count="400000"/>
+		<production id="3950" count="1000"/>
+	</item>
+
+	<!-- BSpiritshot A x1000 -->
+	<item id="9">
+		<ingredient id="57" count="500000"/>
+		<production id="3951" count="1000"/>
+	</item>
+
+	<!-- Bspiritshot S x1000 -->
+	<item id="10">
+		<ingredient id="57" count="1000000"/>
+		<production id="3952" count="1000"/>
+	</item>
+
+</list>

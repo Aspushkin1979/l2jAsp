@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Ghoulbane -->
+  <item id="1">
+    <ingredient id="57" count="8680000"/>
+    <production id="146" count="1"/>
+  </item>
+
+  <!-- Sword of Valhalla -->
+  <item id="2">
+    <ingredient id="57" count="8680000"/>
+    <production id="148" count="1"/>
+  </item>
+
+  <!-- Blade of Serenity -->
+  <item id="3">
+    <ingredient id="57" count="8680000"/>
+    <production id="136" count="1"/>
+  </item>
+
+  <!-- Dusk Sword -->
+  <item id="4">
+    <ingredient id="57" count="8680000"/>
+    <production id="139" count="1"/>
+  </item>
+
+  <!-- Eminence Sword -->
+  <item id="5">
+    <ingredient id="57" count="8680000"/>
+    <production id="140" count="1"/>
+  </item>
+
+  <!-- Hazard Sword -->
+  <item id="6">
+    <ingredient id="57" count="8680000"/>
+    <production id="141" count="1"/>
+  </item>
+
+  <!-- Keshanberk -->
+  <item id="7">
+    <ingredient id="57" count="8680000"/>
+    <production id="142" count="1"/>
+  </item>
+
+  <!-- Mist Sword -->
+  <item id="8">
+    <ingredient id="57" count="8680000"/>
+    <production id="137" count="1"/>
+  </item>
+
+  <!-- Sword of Desert -->
+  <item id="9">
+    <ingredient id="57" count="8680000"/>
+    <production id="138" count="1"/>
+  </item>
+
+  <!-- Great Sword -->
+  <item id="10">
+    <ingredient id="57" count="8680000"/>
+    <production id="78" count="1"/>
+  </item>
+
+  <!-- Sword of Damascus -->
+  <item id="11">
+    <ingredient id="57" count="13100000"/>
+    <production id="79" count="1"/>
+  </item>
+
+  <!-- Wizard's Tear -->
+  <item id="12">
+    <ingredient id="57" count="13100000"/>
+    <production id="7889" count="1"/>
+  </item>
+
+  <!-- Guardian Sword -->
+  <item id="13">
+    <ingredient id="57" count="13100000"/>
+    <production id="7883" count="1"/>
+  </item>
+
+
+</list>

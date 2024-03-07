@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- Grey Team GM Shop MAX 5.1 -->
+
+<list>
+
+  <!-- Epic Dark Knight Armor Heavy -->
+  <item id="1">
+    <ingredient id="9400" count="120" enchant="0"/>
+    <production id="9800" count="1" enchant="0"/>
+    <production id="9801" count="1" enchant="0"/>
+    <production id="9802" count="1" enchant="0"/>
+    <production id="9803" count="1" enchant="0"/>
+  </item>
+
+  <!-- Epic Dark Knight Armor Light -->
+  <item id="2">
+    <ingredient id="9400" count="120" enchant="0"/>
+    <production id="9804" count="1" enchant="0"/>
+    <production id="9805" count="1" enchant="0"/>
+    <production id="9806" count="1" enchant="0"/>
+    <production id="9807" count="1" enchant="0"/>
+  </item>
+
+  <!-- Epic Dark Knight Tunic Robe -->
+  <item id="3">
+    <ingredient id="9400" count="120" enchant="0"/>
+    <production id="9808" count="1" enchant="0"/>
+    <production id="9809" count="1" enchant="0"/>
+    <production id="9810" count="1" enchant="0"/>
+    <production id="9811" count="1" enchant="0"/>
+    <production id="9812" count="1" enchant="0"/>
+  </item>
+
+  <!-- Epic Mask -->
+  <item id="4">
+    <ingredient id="9400" count="10" enchant="0"/>
+    <production id="9813" count="1" enchant="0"/>
+  </item>
+
+  <!-- Epic Shield -->
+  <item id="5">
+    <ingredient id="9400" count="5" enchant="0"/>
+    <production id="9814" count="1" enchant="0"/>
+  </item>
+
+</list>

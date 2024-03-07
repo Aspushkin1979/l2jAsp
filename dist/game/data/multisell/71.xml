@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Chakram -->
+  <item id="1">
+    <ingredient id="57" count="2290000"/>
+    <production id="263" count="1"/>
+  </item>
+
+  <!-- Knuckle Duster -->
+  <item id="2">
+    <ingredient id="57" count="2870000"/>
+    <production id="4233" count="1"/>
+  </item>
+
+  <!-- Fisted Blade -->
+  <item id="3">
+    <ingredient id="57" count="4300000"/>
+    <production id="265" count="1"/>
+  </item>
+
+  <!-- Great Pata -->
+  <item id="4">
+    <ingredient id="57" count="6130000"/>
+    <production id="266" count="1"/>
+  </item>
+
+
+</list>

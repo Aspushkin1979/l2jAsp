@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+
+<list>
+
+  <!-- [Recipe: Art of Battle Axe(100%)] for [Adena] -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="4195" count="1"/>
+  </item>
+
+  <!-- [Recipe: Art of Battle Axe(60%)] for [Adena] -->
+  <item id="2">
+    <ingredient id="57" count="1000000"/>
+    <production id="5003" count="1"/>
+  </item>
+  
+  <!-- [Recipe: Belion Cestus(100%)] for [Adena] -->
+  <item id="3">
+    <ingredient id="57" count="1000000"/>
+    <production id="4198" count="1"/>
+  </item>
+
+  <!-- [Recipe: Belion Cestus(60%)] for [Adena] -->
+  <item id="4">
+    <ingredient id="57" count="1000000"/>
+    <production id="5006" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blood Totnado(100%)] for [Adena] -->
+  <item id="5">
+    <ingredient id="57" count="1000000"/>
+    <production id="5453" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blood Totnado(60%)] for [Adena] -->
+  <item id="6">
+    <ingredient id="57" count="1000000"/>
+    <production id="5452" count="1"/>
+  </item>
+
+  <!-- [Recipe: Bloody Ochid(100%)] for [Adena] -->
+  <item id="7">
+    <ingredient id="57" count="1000000"/>
+    <production id="5447" count="1"/>
+  </item>
+
+  <!-- [Recipe: Bloody Ochid(60%)] for [Adena] -->
+  <item id="8">
+    <ingredient id="57" count="1000000"/>
+    <production id="5446" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Boots(100%)] for [Adena] -->
+  <item id="9">
+    <ingredient id="57" count="1000000"/>
+    <production id="4167" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Boots(60%)] for [Adena] -->
+  <item id="10">
+    <ingredient id="57" count="1000000"/>
+    <production id="4992" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Breastplate(100%)] for [Adena] -->
+  <item id="11">
+    <ingredient id="57" count="1000000"/>
+    <production id="4155" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Breastplate(60%)] for [Adena] -->
+  <item id="12">
+    <ingredient id="57" count="1000000"/>
+    <production id="4981" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Gaiters(100%)] for [Adena] -->
+  <item id="13">
+    <ingredient id="57" count="1000000"/>
+    <production id="4157" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Gaiters(60%)] for [Adena] -->
+  <item id="14">
+    <ingredient id="57" count="1000000"/>
+    <production id="4982" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Gloves(100%)] for [Adena] -->
+  <item id="15">
+    <ingredient id="57" count="1000000"/>
+    <production id="4173" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Gloves(60%)] for [Adena] -->
+  <item id="16">
+    <ingredient id="57" count="1000000"/>
+    <production id="4998" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Helmet(100%)] for [Adena] -->
+  <item id="17">
+    <ingredient id="57" count="1000000"/>
+    <production id="4165" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Helmet(60%)] for [Adena] -->
+  <item id="18">
+    <ingredient id="57" count="1000000"/>
+    <production id="4990" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Leather Armor(100%)] for [Adena] -->
+  <item id="19">
+    <ingredient id="57" count="1000000"/>
+    <production id="4159" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Leather Armor(60%)] for [Adena] -->
+  <item id="20">
+    <ingredient id="57" count="1000000"/>
+    <production id="4984" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Stockings(100%)] for [Adena] -->
+  <item id="21">
+    <ingredient id="57" count="1000000"/>
+    <production id="4163" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Stockings(60%)] for [Adena] -->
+  <item id="22">
+    <ingredient id="57" count="1000000"/>
+    <production id="4988" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Tunic(100%)] for [Adena] -->
+  <item id="23">
+    <ingredient id="57" count="1000000"/>
+    <production id="4161" count="1"/>
+  </item>
+
+  <!-- [Recipe: Blue Wolf Tunic(60%)] for [Adena] -->
+  <item id="24">
+    <ingredient id="57" count="1000000"/>
+    <production id="4986" count="1"/>
+  </item>
+
+  <!-- [Recipe: Boots Of Doom(100%)] for [Adena] -->
+  <item id="25">
+    <ingredient id="57" count="1000000"/>
+    <production id="4176" count="1"/>
+  </item>
+
+  <!-- [Recipe: Boots Of Doom(60%)] for [Adena] -->
+  <item id="26">
+    <ingredient id="57" count="1000000"/>
+    <production id="4999" count="1"/>
+  </item>
+
+  <!-- [Recipe: Boots Of Grace(100%)] for [Adena] -->
+  <item id="27">
+    <ingredient id="57" count="1000000"/>
+    <production id="4140" count="1"/>
+  </item>
+
+  <!-- [Recipe: Boots Of Grace(60%)] for [Adena] -->
+  <item id="28">
+    <ingredient id="57" count="1000000"/>
+    <production id="4979" count="1"/>
+  </item>
+
+  <!-- [Recipe: Bow of Peril(100%)] for [Adena] -->
+  <item id="29">
+    <ingredient id="57" count="1000000"/>
+    <production id="4199" count="1"/>
+  </item>
+
+  <!-- [Recipe: Bow of Peril(60%)] for [Adena] -->
+  <item id="30">
+    <ingredient id="57" count="1000000"/>
+    <production id="5007" count="1"/>
+  </item>
+
+  <!-- [Recipe: Carnage Bow(100%)] for [Adena] -->
+  <item id="31">
+    <ingredient id="57" count="1000000"/>
+    <production id="5445" count="1"/>
+  </item>
+
+  <!-- [Recipe: Carnage Bow(60%)] for [Adena] -->
+  <item id="32">
+    <ingredient id="57" count="1000000"/>
+    <production id="5444" count="1"/>
+  </item>
+
+  <!-- [Recipe: Dasparion's Staff(100%)] for [Adena] -->
+  <item id="33">
+    <ingredient id="57" count="1000000"/>
+    <production id="5461" count="1"/>
+  </item>
+
+  <!-- [Recipe: Dasparion's Staff(60%)] for [Adena] -->
+  <item id="34">
+    <ingredient id="57" count="1000000"/>
+    <production id="5460" count="1"/>
+  </item>
+
+  <!-- [Recipe: Deadman's Glory(100%)] for [Adena] -->
+  <item id="35">
+    <ingredient id="57" count="1000000"/>
+    <production id="4194" count="1"/>
+  </item>
+
+  <!-- [Recipe: Deadman's Glory(60%)] for [Adena] -->
+  <item id="36">
+    <ingredient id="57" count="1000000"/>
+    <production id="5002" count="1"/>
+  </item>
+
+  <!-- [Recipe: Demon's Sword(100%)] for [Adena] -->
+  <item id="37">
+    <ingredient id="57" count="1000000"/>
+    <production id="4197" count="1"/>
+  </item>
+
+  <!-- [Recipe: Demon's Sword(60%)] for [Adena] -->
+  <item id="38">
+    <ingredient id="57" count="1000000"/>
+    <production id="5005" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Gloves(100%)] for [Adena] -->
+  <item id="39">
+    <ingredient id="57" count="1000000"/>
+    <production id="4168" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Gloves(60%)] for [Adena] -->
+  <item id="40">
+    <ingredient id="57" count="1000000"/>
+    <production id="4993" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Helmet(100%)] for [Adena] -->
+  <item id="41">
+    <ingredient id="57" count="1000000"/>
+    <production id="4166" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Helmet(60%)] for [Adena] -->
+  <item id="42">
+    <ingredient id="57" count="1000000"/>
+    <production id="4991" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Plate Armor(100%)] for [Adena] -->
+  <item id="43">
+    <ingredient id="57" count="1000000"/>
+    <production id="4158" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Plate Armor(60%)] for [Adena] -->
+  <item id="44">
+    <ingredient id="57" count="1000000"/>
+    <production id="4983" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Shield(100%)] for [Adena] -->
+  <item id="45">
+    <ingredient id="57" count="1000000"/>
+    <production id="4154" count="1"/>
+  </item>
+
+  <!-- [Recipe: Doom Shield(60%)] for [Adena] -->
+  <item id="46">
+    <ingredient id="57" count="1000000"/>
+    <production id="4980" count="1"/>
+  </item>
+
+  <!-- [Recipe: Earring of Black Ore(100%)] for [Adena] -->
+  <item id="47">
+    <ingredient id="57" count="1000000"/>
+    <production id="4129" count="1"/>
+  </item>
+
+  <!-- [Recipe: Earring of Black Ore(70%)] for [Adena] -->
+  <item id="48">
+    <ingredient id="57" count="1000000"/>
+    <production id="4973" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Boots(100%)] for [Adena] -->
+  <item id="49">
+    <ingredient id="57" count="1000000"/>
+    <production id="4139" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Boots(60%)] for [Adena] -->
+  <item id="50">
+    <ingredient id="57" count="1000000"/>
+    <production id="4978" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Gloves(100%)] for [Adena] -->
+  <item id="51">
+    <ingredient id="57" count="1000000"/>
+    <production id="4169" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Gloves(60%)] for [Adena] -->
+  <item id="52">
+    <ingredient id="57" count="1000000"/>
+    <production id="4994" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Sword(100%)] for [Adena] -->
+  <item id="53">
+    <ingredient id="57" count="1000000"/>
+    <production id="5469" count="1"/>
+  </item>
+
+  <!-- [Recipe: Elemental Sword(60%)] for [Adena] -->
+  <item id="54">
+    <ingredient id="57" count="1000000"/>
+    <production id="5468" count="1"/>
+  </item>
+
+  <!-- [Recipe: Gloves of Grace(100%)] for [Adena] -->
+  <item id="55">
+    <ingredient id="57" count="1000000"/>
+    <production id="4170" count="1"/>
+  </item>
+
+  <!-- [Recipe: Gloves of Grace(60%)] for [Adena] -->
+  <item id="56">
+    <ingredient id="57" count="1000000"/>
+    <production id="4995" count="1"/>
+  </item>
+
+  <!-- [Recipe: Halberb(100%)] for [Adena] -->
+  <item id="57">
+    <ingredient id="57" count="1000000"/>
+    <production id="5459" count="1"/>
+  </item>
+
+  <!-- [Recipe: Halberb(60%)] for [Adena] -->
+  <item id="58">
+    <ingredient id="57" count="1000000"/>
+    <production id="5458" count="1"/>
+  </item>
+
+  <!-- [Recipe: Implosion Boots(100%)] for [Adena] -->
+  <item id="59">
+    <ingredient id="57" count="1000000"/>
+    <production id="4135" count="1"/>
+  </item>
+
+  <!-- [Recipe: Implosion Boots(60%)] for [Adena] -->
+  <item id="60">
+    <ingredient id="57" count="1000000"/>
+    <production id="4976" count="1"/>
+  </item>
+
+  <!-- [Recipe: Implosion Gauntlets(100%)] for [Adena] -->
+  <item id="61">
+    <ingredient id="57" count="1000000"/>
+    <production id="4171" count="1"/>
+  </item>
+
+  <!-- [Recipe: Implosion Gauntlets(60%)] for [Adena] -->
+  <item id="62">
+    <ingredient id="57" count="1000000"/>
+    <production id="4996" count="1"/>
+  </item>
+
+  <!-- [Recipe: Lance(100%)] for [Adena] -->
+  <item id="63">
+    <ingredient id="57" count="1000000"/>
+    <production id="4193" count="1"/>
+  </item>
+
+  <!-- [Recipe: Lance(60%)] for [Adena] -->
+  <item id="64">
+    <ingredient id="57" count="1000000"/>
+    <production id="5001" count="1"/>
+  </item>
+
+  <!-- [Recipe: Leather Armor of Doom(100%)] for [Adena] -->
+  <item id="65">
+    <ingredient id="57" count="1000000"/>
+    <production id="4160" count="1"/>
+  </item>
+
+  <!-- [Recipe: Leather Armor of Doom(60%)] for [Adena] -->
+  <item id="66">
+    <ingredient id="57" count="1000000"/>
+    <production id="4985" count="1"/>
+  </item>
+
+  <!-- [Recipe: Meteor Shower(100%)] for [Adena] -->
+  <item id="67">
+    <ingredient id="57" count="1000000"/>
+    <production id="5439" count="1"/>
+  </item>
+
+  <!-- [Recipe: Meteor Shower(60%)] for [Adena] -->
+  <item id="68">
+    <ingredient id="57" count="1000000"/>
+    <production id="5438" count="1"/>
+  </item>
+
+  <!-- [Recipe: Necklace of Black Ore(100%)] for [Adena] -->
+  <item id="69">
+    <ingredient id="57" count="1000000"/>
+    <production id="4131" count="1"/>
+  </item>
+
+  <!-- [Recipe: Necklace of Black Ore(70%)] for [Adena] -->
+  <item id="70">
+    <ingredient id="57" count="1000000"/>
+    <production id="4975" count="1"/>
+  </item>
+
+  <!-- [Recipe: Paradia Boots(100%)] for [Adena] -->
+  <item id="71">
+    <ingredient id="57" count="1000000"/>
+    <production id="4138" count="1"/>
+  </item>
+
+  <!-- [Recipe: Paradia Boots(60%)] for [Adena] -->
+  <item id="72">
+    <ingredient id="57" count="1000000"/>
+    <production id="4977" count="1"/>
+  </item>
+
+  <!-- [Recipe: Paradia Gloves(100%)] for [Adena] -->
+  <item id="73">
+    <ingredient id="57" count="1000000"/>
+    <production id="4172" count="1"/>
+  </item>
+
+  <!-- [Recipe: Paradia Gloves(60%)] for [Adena] -->
+  <item id="74">
+    <ingredient id="57" count="1000000"/>
+    <production id="4997" count="1"/>
+  </item>
+
+  <!-- [Recipe: Ring of Black Ore(100%)] for [Adena] -->
+  <item id="75">
+    <ingredient id="57" count="1000000"/>
+    <production id="4130" count="1"/>
+  </item>
+
+  <!-- [Recipe: Ring of Black Ore(70%)] for [Adena] -->
+  <item id="76">
+    <ingredient id="57" count="1000000"/>
+    <production id="4974" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sage's Necklace(100%)] for [Adena] -->
+  <item id="77">
+    <ingredient id="57" count="1000000"/>
+    <production id="2172" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sage's Ring(100%)] for [Adena] -->
+  <item id="79">
+    <ingredient id="57" count="1000000"/>
+    <production id="2171" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Boots(100%)] for [Adena] -->
+  <item id="81">
+    <ingredient id="57" count="1000000"/>
+    <production id="5369" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Boots(60%)] for [Adena] -->
+  <item id="82">
+    <ingredient id="57" count="1000000"/>
+    <production id="5368" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal breastplate(100%)] for [Adena] -->
+  <item id="83">
+    <ingredient id="57" count="1000000"/>
+    <production id="5417" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal breastplate(60%)] for [Adena] -->
+  <item id="84">
+    <ingredient id="57" count="1000000"/>
+    <production id="5416" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Gaiters(100%)] for [Adena] -->
+  <item id="85">
+    <ingredient id="57" count="1000000"/>
+    <production id="5425" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Gaiters(60%)] for [Adena] -->
+  <item id="86">
+    <ingredient id="57" count="1000000"/>
+    <production id="5424" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Gloves(100%)] for [Adena] -->
+  <item id="87">
+    <ingredient id="57" count="1000000"/>
+    <production id="5393" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Gloves(60%)] for [Adena] -->
+  <item id="88">
+    <ingredient id="57" count="1000000"/>
+    <production id="5392" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Helmet(100%)] for [Adena] -->
+  <item id="89">
+    <ingredient id="57" count="1000000"/>
+    <production id="5427" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Helmet(60%)] for [Adena] -->
+  <item id="90">
+    <ingredient id="57" count="1000000"/>
+    <production id="5426" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Leather Armor(100%)] for [Adena] -->
+  <item id="91">
+    <ingredient id="57" count="1000000"/>
+    <production id="5333" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Leather Armor(60%)] for [Adena] -->
+  <item id="92">
+    <ingredient id="57" count="1000000"/>
+    <production id="5332" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Robe(100%)] for [Adena] -->
+  <item id="93">
+    <ingredient id="57" count="1000000"/>
+    <production id="5349" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Robe(60%)] for [Adena] -->
+  <item id="94">
+    <ingredient id="57" count="1000000"/>
+    <production id="5348" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Shield(100%)] for [Adena] -->
+  <item id="95">
+    <ingredient id="57" count="1000000"/>
+    <production id="5365" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Shield(60%)] for [Adena] -->
+  <item id="96">
+    <ingredient id="57" count="1000000"/>
+    <production id="5364" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Leggings(100%)] for [Adena] -->
+  <item id="97">
+    <ingredient id="57" count="1000000"/>
+    <production id="5341" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Dark Crystal Leggings(60%)] for [Adena] -->
+  <item id="98">
+    <ingredient id="57" count="1000000"/>
+    <production id="5340" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Earring(100%)] for [Adena] -->
+  <item id="99">
+    <ingredient id="57" count="1000000"/>
+    <production id="6332" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Earring(70%)] for [Adena] -->
+  <item id="100">
+    <ingredient id="57" count="1000000"/>
+    <production id="6331" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Necklace(100%)] for [Adena] -->
+  <item id="101">
+    <ingredient id="57" count="1000000"/>
+    <production id="6330" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Necklace(70%)] for [Adena] -->
+  <item id="102">
+    <ingredient id="57" count="1000000"/>
+    <production id="6329" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Ring(100%)] for [Adena] -->
+  <item id="103">
+    <ingredient id="57" count="1000000"/>
+    <production id="6334" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Phoenix Ring(70%)] for [Adena] -->
+  <item id="104">
+    <ingredient id="57" count="1000000"/>
+    <production id="6333" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Boots(100%)] for [Adena] -->
+  <item id="105">
+    <ingredient id="57" count="1000000"/>
+    <production id="5371" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Boots(60%)] for [Adena] -->
+  <item id="106">
+    <ingredient id="57" count="1000000"/>
+    <production id="5370" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Gloves(100%)] for [Adena] -->
+  <item id="107">
+    <ingredient id="57" count="1000000"/>
+    <production id="5395" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Gloves(60%)] for [Adena] -->
+  <item id="108">
+    <ingredient id="57" count="1000000"/>
+    <production id="5394" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Helmet(100%)] for [Adena] -->
+  <item id="109">
+    <ingredient id="57" count="1000000"/>
+    <production id="5429" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Helmet(60%)] for [Adena] -->
+  <item id="110">
+    <ingredient id="57" count="1000000"/>
+    <production id="5428" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Leather Armor(100%)] for [Adena] -->
+  <item id="111">
+    <ingredient id="57" count="1000000"/>
+    <production id="5335" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Leather Armor(60%)] for [Adena] -->
+  <item id="112">
+    <ingredient id="57" count="1000000"/>
+    <production id="5334" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Plate Armor(100%)] for [Adena] -->
+  <item id="113">
+    <ingredient id="57" count="1000000"/>
+    <production id="5419" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Plate Armor(60%)] for [Adena] -->
+  <item id="114">
+    <ingredient id="57" count="1000000"/>
+    <production id="5418" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Stockings(100%)] for [Adena] -->
+  <item id="115">
+    <ingredient id="57" count="1000000"/>
+    <production id="5355" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Stockings(60%)] for [Adena] -->
+  <item id="116">
+    <ingredient id="57" count="1000000"/>
+    <production id="5354" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Tunic(100%)] for [Adena] -->
+  <item id="117">
+    <ingredient id="57" count="1000000"/>
+    <production id="5347" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sealed Tallum Tunic(60%)] for [Adena] -->
+  <item id="118">
+    <ingredient id="57" count="1000000"/>
+    <production id="5346" count="1"/>
+  </item>
+
+  <!-- [Recipe: Staff of Evil Spirit(100%)] for [Adena] -->
+  <item id="119">
+    <ingredient id="57" count="1000000"/>
+    <production id="4196" count="1"/>
+  </item>
+
+  <!-- [Recipe: Staff of Evil Spirit(60%)] for [Adena] -->
+  <item id="120">
+    <ingredient id="57" count="1000000"/>
+    <production id="5004" count="1"/>
+  </item>
+
+  <!-- [Recipe: Stockings of Doom(100%)] for [Adena] -->
+  <item id="121">
+    <ingredient id="57" count="1000000"/>
+    <production id="4164" count="1"/>
+  </item>
+
+  <!-- [Recipe: Stockings of Doom(60%)] for [Adena] -->
+  <item id="122">
+    <ingredient id="57" count="1000000"/>
+    <production id="4989" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sword of Damascus(100%)] for [Adena] -->
+  <item id="123">
+    <ingredient id="57" count="1000000"/>
+    <production id="4192" count="1"/>
+  </item>
+
+  <!-- [Recipe: Sword of Damascus(60%)] for [Adena] -->
+  <item id="124">
+    <ingredient id="57" count="1000000"/>
+    <production id="5000" count="1"/>
+  </item>
+
+  <!-- [Recipe: Tallum Blade(100%)] for [Adena] -->
+  <item id="125">
+    <ingredient id="57" count="1000000"/>
+    <production id="5471" count="1"/>
+  </item>
+
+  <!-- [Recipe: Tallum Blade(60%)] for [Adena] -->
+  <item id="126">
+    <ingredient id="57" count="1000000"/>
+    <production id="5470" count="1"/>
+  </item>
+
+  <!-- [Recipe: Tunnic of Doom(100%)] for [Adena] -->
+  <item id="127">
+    <ingredient id="57" count="1000000"/>
+    <production id="4162" count="1"/>
+  </item>
+
+  <!-- [Recipe: Tunnic of Doom(60%)] for [Adena] -->
+  <item id="128">
+    <ingredient id="57" count="1000000"/>
+    <production id="4987" count="1"/>
+  </item>
+     <item id="129">
+    <ingredient id="57" count="1000000"/>
+    <production id="8311" count="1"/>
+  </item>
+     <item id="130">
+    <ingredient id="57" count="1000000"/>
+    <production id="8297" count="1"/>
+  </item>
+     <item id="131">
+    <ingredient id="57" count="1000000"/>
+    <production id="8321" count="1"/>
+  </item>
+     <item id="132">
+    <ingredient id="57" count="1000000"/>
+    <production id="8309" count="1"/>
+  </item>
+     <item id="133">
+    <ingredient id="57" count="1000000"/>
+    <production id="8325" count="1"/>
+  </item>
+     <item id="134">
+    <ingredient id="57" count="1000000"/>
+    <production id="8323" count="1"/>
+  </item>
+     <item id="135">
+    <ingredient id="57" count="1000000"/>
+    <production id="8305" count="1"/>
+  </item>
+
+
+  </list>
+

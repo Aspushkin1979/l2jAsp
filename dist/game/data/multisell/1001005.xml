@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- Grey Team GM Shop MAX 5.1 -->
+
+<list>
+
+<!-- Dusk Sword - Haste -->
+<item id="1">
+<ingredient id="57" count="1" enchant="0"/>
+<production id="9300" count="1" enchant="0"/>
+</item>
+
+<!-- Dusk Sword - Health -->
+<item id="2">
+<ingredient id="57" count="1" enchant="0"/>
+<production id="9301" count="1" enchant="0"/>
+</item>
+
+<!-- Dusk Sword - Focus -->
+<item id="3">
+<ingredient id="57" count="1" enchant="0"/>
+<production id="9302" count="1" enchant="0"/>
+</item>
+
+
+<!-- Dual Dragon Slayer -->
+<item id="4">
+<ingredient id="57" count="1" enchant="0"/>
+<production id="9303" count="1" enchant="0"/>
+</item>
+  
+</list>

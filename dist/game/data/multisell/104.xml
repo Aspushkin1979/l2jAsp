@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Aquastone Ring -->
+  <item id="1">
+    <ingredient id="57" count="103000"/>
+    <production id="883" count="1"/>
+  </item>
+
+  <!-- Ring of Protection -->
+  <item id="2">
+    <ingredient id="57" count="130000"/>
+    <production id="884" count="1"/>
+  </item>
+
+  <!-- Ring of Binding -->
+  <item id="3">
+    <ingredient id="57" count="282000"/>
+    <production id="886" count="1"/>
+  </item>
+
+  <!-- Ring of Ages -->
+  <item id="4">
+    <ingredient id="57" count="196000"/>
+    <production id="885" count="1"/>
+  </item>
+
+  <!-- Blessed Ring -->
+  <item id="5">
+    <ingredient id="57" count="282000"/>
+    <production id="888" count="1"/>
+  </item>
+
+  <!-- Earring of Protection -->
+  <item id="6">
+    <ingredient id="57" count="196000"/>
+    <production id="853" count="1"/>
+  </item>
+
+  <!-- Earring of Binding -->
+  <item id="7">
+    <ingredient id="57" count="295000"/>
+    <production id="854" count="1"/>
+  </item>
+
+  <!-- Nassen's Earring -->
+  <item id="8">
+    <ingredient id="57" count="424000"/>
+    <production id="855" count="1"/>
+  </item>
+
+  <!-- Blessed Earring -->
+  <item id="9">
+    <ingredient id="57" count="424000"/>
+    <production id="857" count="1"/>
+  </item>
+
+  <!-- Moonstone Earring -->
+  <item id="10">
+    <ingredient id="57" count="155000"/>
+    <production id="852" count="1"/>
+  </item>
+
+  <!-- Blessed Necklace -->
+  <item id="11">
+    <ingredient id="57" count="565000"/>
+    <production id="919" count="1"/>
+  </item>
+
+  <!-- Necklace of Binding -->
+  <item id="12">
+    <ingredient id="57" count="565000"/>
+    <production id="119" count="1"/>
+  </item>
+
+  <!-- Necklace of Mermaid -->
+  <item id="13">
+    <ingredient id="57" count="393000"/>
+    <production id="917" count="1"/>
+  </item>
+
+  <!-- Aquastone Necklace -->
+  <item id="14">
+    <ingredient id="57" count="207000"/>
+    <production id="915" count="1"/>
+  </item>
+
+  <!-- Necklace of Protection -->
+  <item id="15">
+    <ingredient id="57" count="261000"/>
+    <production id="916" count="1"/>
+  </item>
+
+
+</list>

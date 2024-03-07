@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Bloody Orchid -->
+  <item id="1">
+    <ingredient id="57" count="18300000"/>
+    <production id="235" count="1"/>
+  </item>
+
+  <!-- Soul Separator -->
+  <item id="2">
+    <ingredient id="57" count="27000000"/>
+    <production id="236" count="1"/>
+  </item>
+
+  <!-- Naga Storm -->
+  <item id="3">
+    <ingredient id="57" count="27000000"/>
+    <production id="8682" count="1"/>
+  </item>
+
+
+</list>

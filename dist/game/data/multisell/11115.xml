@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Chimera. (C) 24.06.2007 ICQ#: 396-393-512  -->
+
+<!-- Armor Shop: Armor D Grade -->
+
+<list>
+
+  <!-- Brigandine Tunic -->
+  <item id="1">
+    <ingredient id="57" count="598000" enchant="0"/>
+    <production id="352" count="1" enchant="0"/>
+  </item>
+
+  <!-- Brigandine Gaiters -->
+  <item id="2">
+    <ingredient id="57" count="374000" enchant="0"/>
+    <production id="2378" count="1" enchant="0"/>
+  </item>
+
+  <!-- Brigandine Helmet -->
+  <item id="3">
+    <ingredient id="57" count="224000" enchant="0"/>
+    <production id="2411" count="1" enchant="0"/>
+  </item>
+
+  <!-- Brigandine Shield -->
+  <item id="4">
+    <ingredient id="57" count="156800" enchant="0"/>
+    <production id="2493" count="1" enchant="0"/>
+  </item>
+
+  <!-- Brigandine Boots -->
+  <item id="5">
+    <ingredient id="57" count="149400" enchant="0"/>
+    <production id="2425" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mithril Tunic -->
+  <item id="6">
+    <ingredient id="57" count="716000" enchant="0"/>
+    <production id="437" count="1" enchant="0"/>
+  </item>
+
+  <!-- Mithril Stockings -->
+  <item id="7">
+    <ingredient id="57" count="280000" enchant="0"/>
+    <production id="470" count="1" enchant="0"/>
+  </item>
+
+  <!-- Elven Mithril Gloves -->
+  <item id="8">
+    <ingredient id="57" count="149400" enchant="0"/>
+    <production id="2450" count="1" enchant="0"/>
+  </item>
+
+<!-- Elven Mithril Boots -->
+  <item id="9">
+    <ingredient id="57" count="149400" enchant="0"/>
+    <production id="2426" count="1" enchant="0"/>
+  </item>
+
+</list>

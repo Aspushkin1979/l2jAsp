@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  <!-- Super Tatoo -->
+  <item id="1">
+    <ingredient id="4037" count="500000" enchant="0"/>
+    <production id="2410" count="1" enchant="0"/>
+  </item>
+
+  <!-- Super mask  -->
+  <item id="2">
+    <ingredient id="4037" count="500000" enchant="0"/>
+    <production id="7837" count="1" enchant="0"/>
+  </item>
+
+  <!-- Boots  -->
+  <item id="3">
+    <ingredient id="4037" count="450000" enchant="0"/>
+    <production id="5590" count="1" enchant="0"/>
+  </item>
+</list>

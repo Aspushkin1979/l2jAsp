@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Horn of Glory -->
+  <item id="1">
+    <ingredient id="57" count="2870000"/>
+    <production id="325" count="1"/>
+  </item>
+
+  <!-- Tears of Fairy -->
+  <item id="2">
+    <ingredient id="57" count="2870000"/>
+    <production id="324" count="1"/>
+  </item>
+
+  <!-- Heathen's Book -->
+  <item id="3">
+    <ingredient id="57" count="4300000"/>
+    <production id="326" count="1"/>
+  </item>
+
+  <!-- Hex Doll -->
+  <item id="4">
+    <ingredient id="57" count="4300000"/>
+    <production id="327" count="1"/>
+  </item>
+
+  <!-- Blessed Branch -->
+  <item id="5">
+    <ingredient id="57" count="6130000"/>
+    <production id="329" count="1"/>
+  </item>
+
+  <!-- Candle of Wisdom -->
+  <item id="6">
+    <ingredient id="57" count="6130000"/>
+    <production id="328" count="1"/>
+  </item>
+
+  <!-- Cerberus Eye -->
+  <item id="7">
+    <ingredient id="57" count="6130000"/>
+    <production id="331" count="1"/>
+  </item>
+
+  <!-- Claws of Black Dragon -->
+  <item id="8">
+    <ingredient id="57" count="6130000"/>
+    <production id="333" count="1"/>
+  </item>
+
+  <!-- Phoenix Feather -->
+  <item id="9">
+    <ingredient id="57" count="6130000"/>
+    <production id="330" count="1"/>
+  </item>
+
+  <!-- Scroll of Destruction -->
+  <item id="10">
+    <ingredient id="57" count="6130000"/>
+    <production id="332" count="1"/>
+  </item>
+
+  <!-- Three Eyed Crow's Feather -->
+  <item id="11">
+    <ingredient id="57" count="6130000"/>
+    <production id="334" count="1"/>
+  </item>
+
+
+</list>

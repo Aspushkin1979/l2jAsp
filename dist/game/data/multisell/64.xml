@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Shining Bow -->
+  <item id="1">
+    <ingredient id="57" count="48800000"/>
+    <production id="6368" count="1"/>
+  </item>
+
+  <!-- Draconic Bow -->
+  <item id="2">
+    <ingredient id="57" count="48800000"/>
+    <production id="7575" count="1"/>
+  </item>
+
+
+</list>
